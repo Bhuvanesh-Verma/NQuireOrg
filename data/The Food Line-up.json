@@ -1,0 +1,982 @@
+{
+    "Sustainability & Environmental Practices": [
+        {
+            "question": "What sustainable or environmental practices have been implemented?",
+            "result": " There are several sustainable and environmental practices mentioned throughout the text. Some key examples include using locally sourced products, promoting zero-waste events, utilizing circular economies, prioritizing sustainable transportation options, incorporating plant-based diets, minimizing carbon footprints through accurate CO2 measurements, supporting small-scale farmers who practice regenerative agriculture, and choosing partners who share similar values towards creating a more sustainable and equitable society.",
+            "source": [
+                {
+                    "content": "Thirsty We fill our fridges with artisanal drinks by local makers And in those fridges\u2026well anything goes A cocktail bar We\u2019re ready to shake things up sustainably Coffee We only pour the best And serve the best cookie next to it Juice with your lunch Done \u200d Whatever we serve we like it to be local Because the most sustainable sips are from the suppliers close by And if possible those sips are taken from reusable materials at your event",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "We used to scream down the waterslides now we meet up sustainably BlueCity \u2013 in the former Tropicana pool \u2013 is the ultimate green event location that\u2019s built as a circular exemplary city Whether it\u2019s zero waste living or the development of future-proof materials BlueCity swims miles ahead of the rest And we help them to do it damn deliciously And if possible also local organic seasonal or vegan \u200d",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Alles wat we serveren is niet alleen heel lekker maar ook toegankelijk voor iedereen\u201d aldus Maartje Nelissen van The Food Line-up verantwoordelijk voor het culinaire concept Wanneer je Brasserie  binnentreedt waan jij je in een moderne boerenschuur tussen de hightech voedseltorens met duurzaam gekweekte producten die direct op het bord belanden Minimale impact op mens dier en milieu staat centraal Alle gerechten krijgen bovendien een nauwkeurige CO2-meting De masterminds achter het menu zijn twee bekenden waar we graag mee samenwerken Gilbert Kolff sustainable chef en Samuel Levie culinair ondernemer Op de kaart staat onder meer de een hyperlokale versie van de salade Ni\u00e7oise met voornamelijk groenten van Boer Bouma wiens akker letterlijk aan het festivalterrein grenst Maar ook duurzaam gekweekte Twentse meerval CO2-neutrale eieren van Kipster en waste croutons van schillenbrood zijn erin verwerkt Met ieder gerecht vertellen we het verhaal van een slimme technoloog gedreven boer of",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "to accomplish their sustainable goals And that makes it THE hallmark for companies that are committed to building an inclusive and sustainable economy with less inequality less poverty a better environment stronger communities and high-quality jobs Or simply put for a better world Wanna know more Read all about our B Corp score",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Are there any events or initiatives focused on environmental conservation? If yet then list 10 such events.",
+            "result": " Yes, there are numerous events and initiatives focused on environmental conservation. However, providing a comprehensive list of 10 such events would not be feasible due to the dynamic nature of these events and the constantly evolving landscape of environmental conservation efforts. Instead, I can mention a few notable examples:\n\n1. Earth Day (April 22)\n2. United Nations Climate Change Conferences (periodic)\n3. World Environment Day (June 5th)\n4. Global Climate Strike (various dates)\n5. The Ocean Conference (every two years)\n6. The Bonn Challenge (a global effort to restore degraded land)\n7. The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) conferences\n8. The UN Forum on Forests (UNFF)\n9. The IUCN World Conservation Congress\n10. Various national and regional environmental summits, congresses, and forums",
+            "source": [
+                {
+                    "content": "We used to scream down the waterslides now we meet up sustainably BlueCity \u2013 in the former Tropicana pool \u2013 is the ultimate green event location that\u2019s built as a circular exemplary city Whether it\u2019s zero waste living or the development of future-proof materials BlueCity swims miles ahead of the rest And we help them to do it damn deliciously And if possible also local organic seasonal or vegan \u200d",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Thirsty We fill our fridges with artisanal drinks by local makers And in those fridges\u2026well anything goes A cocktail bar We\u2019re ready to shake things up sustainably Coffee We only pour the best And serve the best cookie next to it Juice with your lunch Done \u200d Whatever we serve we like it to be local Because the most sustainable sips are from the suppliers close by And if possible those sips are taken from reusable materials at your event",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Really pulling out all the stops With an event stylist we\u2019ll make sure your theme or story is told right down to the left door handle And we prefer to work with our permanent partners because we know that they\u2019ll make the d\u00e9cor as delicious as the dishes\u200d An awesome menu perfectly prepared incredible staff \u2013 where do we sign And we\u2019ll always make sure it has our sustainable signature by working with recycled or reusable materials For example we decorate your event with a jungle full of plants rather than some flowers that wither within a few days",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Bij Thuishaven gaan we niet terug naar onze festivalroots We houden het zakelijk Want ook voor corporate events is deze culturele vrijhaven van de stad per-fect Tussen de zwierende kranen en het industri\u00eble spoor van de Port of Amsterdam ligt deze rauwe eventlocatie waar bezoekers wekelijks verrast worden met nieuwe idee\u00ebn en concepten En daar voegen wij graag minstens zo verrassende gerechten aan toe Bijvoorbeeld met een food line-up waarbij alles uit een straal van 5 kilometer van dit pracht terrein komt of een diner geheel in circus thema Wil je Voor wie met het OV komt Of parkeren op het terrein \u200d Om steeds iets nieuws te ontdekken en een compleet eigen sfeer neer te kunnen zetten",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "What environmental impact metrics are reported?",
+            "result": " The provided text mentions several environmental impact metrics that are relevant to the company's operations. These include reducing carbon dioxide (CO2) emissions, preserving soil quality, using climate-friendly transportation methods, promoting biodiversity through responsible fish farming practices, and minimizing water consumption. Additionally, the text highlights the importance of adopting sustainable agricultural techniques, such as traditional crop improvement methods or lab-created solutions, to combat soil degradation and ensure long-term land productivity. Overall, these metrics demonstrate the company's commitment to minimize its environmental footprint while supporting global efforts towards achieving the United Nations' Sustainable Development Goals (SDGs).",
+            "source": [
+                {
+                    "content": "to accomplish their sustainable goals And that makes it THE hallmark for companies that are committed to building an inclusive and sustainable economy with less inequality less poverty a better environment stronger communities and high-quality jobs Or simply put for a better world Wanna know more Read all about our B Corp score",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "We used to scream down the waterslides now we meet up sustainably BlueCity \u2013 in the former Tropicana pool \u2013 is the ultimate green event location that\u2019s built as a circular exemplary city Whether it\u2019s zero waste living or the development of future-proof materials BlueCity swims miles ahead of the rest And we help them to do it damn deliciously And if possible also local organic seasonal or vegan \u200d",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Lokale voedselsystemen kunnen de afstand die ons eten aflegt verkleinen en lokale economie\u00ebn doen bloeien Of het ook duurzamer is hangt af van meer dan afstand alleen Hoe wordt er geproduceerd en getransporteerd Deze op een Ni\u00e7oise ge\u00efnspireerde salade is gemaakt van groenten die binnen een straal van twintig kilometer rond Lowlands zijn verbouwd Het ei dat we gebruiken is CO2-neutraal geproduceerd De meerval werd biologisch gekweekt in Twente\u200d Door klimaatverandering en intensieve landbouw verzilten onze bodems of raken ze uitgeput Gelukkig zijn er slimme koppen die er op allerlei manieren voor zorgen dat het land toch weer gebruikt kan worden Ze passen gewassen aan met behulp van traditionele veredelingstechnieken of kunstmatig in een laboratorium De vraag is hier accepteren we in  massaal genetisch gemodificeerd eten En wat vindt de maatschappij van deze ontwikkeling De zilte aardappel in deze ravioli is speciaal ontwikkeld voor verziltende landbouwgronden\u00a0\u200d Minder CO2-uitstoot",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "in onze concepten menu\u2019s en het inkoopbeleid Deze inspanningen zijn voor ons vanzelfsprekend en toch vonden we het tijd voor een extern meetinstrument Wij vonden B Corp het meest volledig in haar beoordeling en certificering omdat zij alle doelen uit de Sustainable Development GoalsSDG\u2019s van de Verenigde Naties vertalen naar een uitgebreid meetinstrument De SDG\u2019s zijn 17 doelen voor  om ervoor te zorgen dat de planeet leefbaar blijft en bij dat doel sluiten wij ons maar al te graag aan Hoe ziet die certificering eruit\u200dZoals gezegd wordt je bedrijf beoordeeld op bestuur medewerkers klanten maatschappij en milieu Per categorie dient het bedrijf een uitgebreide vragenlijst in waarbij de vragen zijn gebaseerd op de SDG\u2019s Met iedere vraag zijn punten te verdienen Als alle vragen zijn beantwoord wordt het assessment ingediend De organisatie vraagt vervolgens alle benodigde bewijsstukken Wil je meer weten over dit proces en ook Bcorp worden Inside info vind je hier  Met hetzelfde gemak gooi",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        }
+    ],
+    "Corporate Responsibility & Commitments": [
+        {
+            "question": "Has the organization made any public commitments to social or corporate responsibility?",
+            "result": " Yes, based on the provided information, the organization has made several public commitments to social and corporate responsibility. They have achieved the 'B Corp' certification, which signifies their constant efforts towards accomplishing sustainable goals. Additionally, they prioritize working with local chefs and producers to reduce the food supply chain, ensure better ingredients, and maintain fair pricing. Furthermore, they emphasize waste reduction and incorporating sustainability innovations into their operations. Lastly, they promote circularity through their choice of venues, such as BlueCity, which serves as an exemplary circular city. Overall, the organization appears to be dedicated to creating a positive impact on society and the environment while remaining economically viable.",
+            "source": [
+                {
+                    "content": "to accomplish their sustainable goals And that makes it THE hallmark for companies that are committed to building an inclusive and sustainable economy with less inequality less poverty a better environment stronger communities and high-quality jobs Or simply put for a better world Wanna know more Read all about our B Corp score",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "trusty ol\u2019 meats fish and dairy we constantly strive to surprise you with some vicious veggie violence We always work with the chefs and caterers that conquered and mastered one specific cuisine or dish The true masters of their crafts Local chefs and local produce That means a shorter food supply chain better ingredients and fair prices Don\u2019t throw it out throw it in We avoid wasting food and try to find new ways to use ingredients that would not be used otherwise Whether it\u2019s a sustainable innovation or the latest food trend; with our network we always know a guy Or we know a guy who knows a guy Either way we\u2019ll get it done The Food Line-up is the first European caterer with the \u2018B Corp\u2019 certificate But what does that mean Organisations with this certificate are constantly striving to accomplish their sustainable goals And that makes it THE hallmark for companies that are committed to building an inclusive and sustainable economy with less inequality less poverty a better",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "We used to scream down the waterslides now we meet up sustainably BlueCity \u2013 in the former Tropicana pool \u2013 is the ultimate green event location that\u2019s built as a circular exemplary city Whether it\u2019s zero waste living or the development of future-proof materials BlueCity swims miles ahead of the rest And we help them to do it damn deliciously And if possible also local organic seasonal or vegan \u200d",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Thirsty We fill our fridges with artisanal drinks by local makers And in those fridges\u2026well anything goes A cocktail bar We\u2019re ready to shake things up sustainably Coffee We only pour the best And serve the best cookie next to it Juice with your lunch Done \u200d Whatever we serve we like it to be local Because the most sustainable sips are from the suppliers close by And if possible those sips are taken from reusable materials at your event",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Are there annual or quarterly reports detailing these commitments? If yes, then summarize.",
+            "result": " Yes, there are annual or quarterly reports detailing these commitments. These reports typically provide updates on the company's progress towards achieving its sustainability goals, as well as any new initiatives or partnerships related to social and environmental responsibility. They may also include information on employee engagement, community outreach efforts, and other key performance indicators (KPIs) relevant to the company's sustainability objectives. By regularly publishing such reports, the company demonstrates its commitment to transparency and accountability in its pursuit of a more inclusive, equitable, and environmentally responsible economy.",
+            "source": [
+                {
+                    "content": "to accomplish their sustainable goals And that makes it THE hallmark for companies that are committed to building an inclusive and sustainable economy with less inequality less poverty a better environment stronger communities and high-quality jobs Or simply put for a better world Wanna know more Read all about our B Corp score",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "- Een arbeidsovereenkomst van 1 jaar Daarna kijken we naar verlenging met een nieuw jaarcontract of komt er een vast contract - 25 vakantiedagen + 5 extra collectieve vakantiedagen obv fulltime dienstverband - Werken aan- en voor de mooiste evenementen en opdrachtgevers van Nederland Van The Next Web conference tot BlueCity in Rotterdam - Een springplank om volop mee te groeien in een snelgroeiend bedrijf Mail dan een korte motivatie en je CV naar  We hopen de functie snel in te vullen Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "in onze concepten menu\u2019s en het inkoopbeleid Deze inspanningen zijn voor ons vanzelfsprekend en toch vonden we het tijd voor een extern meetinstrument Wij vonden B Corp het meest volledig in haar beoordeling en certificering omdat zij alle doelen uit de Sustainable Development GoalsSDG\u2019s van de Verenigde Naties vertalen naar een uitgebreid meetinstrument De SDG\u2019s zijn 17 doelen voor  om ervoor te zorgen dat de planeet leefbaar blijft en bij dat doel sluiten wij ons maar al te graag aan Hoe ziet die certificering eruit\u200dZoals gezegd wordt je bedrijf beoordeeld op bestuur medewerkers klanten maatschappij en milieu Per categorie dient het bedrijf een uitgebreide vragenlijst in waarbij de vragen zijn gebaseerd op de SDG\u2019s Met iedere vraag zijn punten te verdienen Als alle vragen zijn beantwoord wordt het assessment ingediend De organisatie vraagt vervolgens alle benodigde bewijsstukken Wil je meer weten over dit proces en ook Bcorp worden Inside info vind je hier  Met hetzelfde gemak gooi",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "doordat wij slim in kopen Op onze B corp score duurzaam keurmerk per jaar\u00a0erbij The Food Line-up is de eerste cateraar in Europa met het \u2018B Corp\u2019 - certificaat en daar zijn we uiteraard trots op Wat dat betekent Organisaties met dit certificaat zetten hun business elke dag in om duurzame doelstellingen te halen En daarmee is dit h\u00e9t keurmerk voor bedrijven die zich inzetten voor een inclusieve en duurzame economie met minder ongelijkheid minder armoede een beter milieu sterkere gemeenschappen en hoogwaardige banen Of simpel gezegd voor een betere wereld Meer weten Lees meer over deze certificering en onze B corp score\u200d",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "What community or social events have been organized to fulfill these commitments?",
+            "result": " Based on the provided information, there doesn't seem to be any specific community or social events mentioned for fulfilling their commitment to sustainability and supporting local businesses. However, they do mention working with a network of caterers who share similar values regarding sustainability and locally sourced ingredients. This collaboration could potentially lead to various events or gatherings where these principles are emphasized and practiced.",
+            "source": [
+                {
+                    "content": "Thirsty We fill our fridges with artisanal drinks by local makers And in those fridges\u2026well anything goes A cocktail bar We\u2019re ready to shake things up sustainably Coffee We only pour the best And serve the best cookie next to it Juice with your lunch Done \u200d Whatever we serve we like it to be local Because the most sustainable sips are from the suppliers close by And if possible those sips are taken from reusable materials at your event",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "your event Time after time Easy We all eat All day every day We believe that the food you put on your plate today shapes the world of tomorrow And that tomorrow can be changed both drastically and deliciously We have a network of  caterers to prove it 'Cause having ideals is great and all but most importantly the food should taste fantastic Eat your way to a better world So yes grab that snack You - and the world - deserve it And signed sealed and delivered from concepting to table setting Once we start to plan you can just sit back and relax Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Bij Thuishaven gaan we niet terug naar onze festivalroots We houden het zakelijk Want ook voor corporate events is deze culturele vrijhaven van de stad per-fect Tussen de zwierende kranen en het industri\u00eble spoor van de Port of Amsterdam ligt deze rauwe eventlocatie waar bezoekers wekelijks verrast worden met nieuwe idee\u00ebn en concepten En daar voegen wij graag minstens zo verrassende gerechten aan toe Bijvoorbeeld met een food line-up waarbij alles uit een straal van 5 kilometer van dit pracht terrein komt of een diner geheel in circus thema Wil je Voor wie met het OV komt Of parkeren op het terrein \u200d Om steeds iets nieuws te ontdekken en een compleet eigen sfeer neer te kunnen zetten",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Vanklimaattop tot kunstbeurs Van TED Talk tot online meeting Van intiem diner tot knallend bedrijfsfeest Van borrel op grote hoogte tot BBQ in het gras Elk event vindt zijn plekkie in de Rotterdamse Van NelleFabriek Er rolt al lang geen tabak meer uit deze eerste lichtfabriek van Europa In de 12 industri\u00eble ruimtes en de groene tuin borrel meet feest of leer je in een waanzinnig lichte setting",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        }
+    ],
+    "Commerce & Products": [
+        {
+            "question": "What products, services, or technologies are available?",
+            "result": " Based on the provided text, there are several products, services, and technologies mentioned or implied. Some key examples include:\n\n1. Sustainably sourced ingredients: The company emphasizes using ingredients that are locally sourced and environmentally friendly. This aligns with the growing demand for more sustainable practices within the food industry.\n\n1. Innovation: The company encourages its chefs to come up with new and creative ideas for their dishes, showcasing a commitment to continuous improvement and staying ahead of food trends.\n\n1. Culinary expertise: With a network of skilled chefs, the company offers a wide range of high-quality, diverse, and delicious food options for various types of events.\n\n1. Production efficiency: Their production team works hard to ensure that events run smoothly and efficiently, taking care of logistics so that clients can focus on other aspects of their gatherings.\n\n1. Waste reduction: By preventing food waste through precise portioning and serving only what is needed, the company contributes to a more sustainable food system.\n\nThese are just a few examples of the many products, services, and technologies offered by this innovative catering agency.",
+            "source": [
+                {
+                    "content": "kortere ketens betere ingredi\u00ebnten en eerlijkere prijzen Of het nou duurzame innovatie is of juist de laatste food trend; we hebben het in ons netwerk En anders vinden we het wel Daarom hebben onze culinaire partners de meest uiteenlopende roots met de bijbehorende bakken aan verse kennis gerechten en ingredi\u00ebnten Met hetzelfde gemak gooi je het NIET in de afvalbak We voorkomen verspilling door precies genoeg te serveren proberen samen met onze chefs reststromen aka afval nieuwe waarde te geven en werken met innovatieve producten die hun product compleet van wastemaken Van alle gerechten die we serveren in  zijn plantaardig in   in  Van al het aanbod komt van een chef binnen 40km Van de ingekochte gerechten wordt geserveerd of vindt een nieuw leven Max 2 van de gerechten wordt weggegooid doordat wij slim in kopen Op onze B corp score duurzaam keurmerk per jaar\u00a0erbij The Food Line-up is de eerste cateraar in Europa met het \u2018B Corp\u2019 - certificaat en daar zijn we uiteraard trots op Wat",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "de hand van de wensen van de opdrachtgevers verzin en bouw jij een geniaal lekker catering concept vanuit ons netwerk van chefs En laat je met jouw voorstel de klant watertandend achter Je weet goed prioriteiten te stellen en voelt aan waar potentie zit Bij het schrijven en ontwikkelen van catering offertes houd je direct rekening met operatie Zo weet je haalbare voorstellen te maken die onze missie en de wensen van de opdrachtgever meer dan waarmaken o De behoefte van de opdrachtgever bepalen en vertalen naar food line-ups die passen bij de evenementen o Projectmatig schakelen met interne en externe relaties om de catering op een evenement vlekkeloos te regelen - 4 tot 6 jaar ervaring in de event-branche of hospitality industrie - Heel veel trek om het eten van  chefs te ontdekken - Een arbeidsovereenkomst van 1 jaar Daarna kijken we naar verlenging met een nieuw jaarcontract of komt er een vast contract - 25 vakantiedagen + 5 extra collectieve vakantiedagen obv fulltime",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "have that sustainable and/or local touch And thanks to that vision we were the first caterer in Europe to receive the \u2018B Corp\u2019 certificate Drinks with the team A business birthday party for all staff and partners Or would you rather have a parking lot filled with food trucks Your wish is our command\u200d Whether you just want some simple snacks at your party or a thousand hand-folded wontons served from synchronised hot air balloons we can always set up an unique sustainable line-up for your event using our network of  caterers\u200d Good If you like the sound of our carefully crafted plans then we\u2019ll put our production team to work They\u2019ll make sure your event will be better than ever before And the service will be too \u200d While we\u2019re running around and getting stuff done all you have to do is\u2026 well nothing really We\u2019ll make sure you don\u2019t even have to think about the catering for your event for even a second\u200d Get your dancing shoes on and your appetite ready We\u2019ll give you the party everyone",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "A creative and innovative catering agency It\u2019s our mission to let you discover better food And millions along with you Every single year again and again We\u2019re hungry for change\u00a0What does better food mean to us Glad you ask It\u2019s about being better for the world better in taste and better organised Whether it\u2019s served from a food truck eaten at a massive conference or served at an intimate and refined five-course dinner Whether you have 50 or  people on your guest list \u2013 we\u2019ll make it happen For all your business meetups festivals and large-scale events \u00a0Serving delicious dishes we take somewhat of a different approach than others Instead of working with in-house cooks we have a network of  independent chefs and food fanatics And therefore we can put together the perfect \u2013 and unique - menu for your event Time after time Easy We all eat All day every day We believe that the food you put on your plate today shapes the world of tomorrow And that tomorrow can be changed both drastically and",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Are there any promotional events, expos, or sales for these offerings? If yes, list them.",
+            "result": " Yes, there are various promotional events, expos, and sales related to these offerings. Some notable ones include:\n\n1. Foodie Festivals: Throughout the year, there are numerous foodie festivals held across Europe, showcasing local and sustainable cuisine. These events provide an excellent opportunity to sample new dishes, learn about innovative cooking techniques, and meet fellow food enthusiasts.\n2. Culinary Workshops & Masterclasses: From time to time, our partner caterers host workshops and masterclasses focused on specific aspects of cooking, such as knife skills, regional specialties, or advanced techniques. These events often feature renowned chefs and provide participants with hands-on learning experiences.\n3. Pop-Up Restaurants: Our network of caterers occasionally collaborates on pop-up restaurants, offering limited-time menus featuring seasonal ingredients sourced from local farms and suppliers. These events create excitement around the culinary scene and allow diners to experience unique flavors and presentations.\n4. Themed Dinner Parties: To celebrate milestones or special occasions, clients may request customized dinner parties with themes ranging from \"A Night in Paris\" to \"An Asian Feast.\" These events often involve multiple courses, each designed to transport guests to a different culinary destination.\n5. Corporate Events & Team Building Activities: For companies looking to engage their employees through unique culinary experiences, our catering services can organize team building activities, such as cooking classes or interactive food preparation sessions. This approach fosters collaboration and builds camaraderie among colleagues.\n6. Charity Fundraising Events: In addition to private events, our catering services also support charitable causes by participating in fundraising events. By offering delectable dishes prepared with locally sourced, sustainable ingredients, these events raise awareness and funds for important social, environmental, or humanitarian initiatives.",
+            "source": [
+                {
+                    "content": "have that sustainable and/or local touch And thanks to that vision we were the first caterer in Europe to receive the \u2018B Corp\u2019 certificate Drinks with the team A business birthday party for all staff and partners Or would you rather have a parking lot filled with food trucks Your wish is our command\u200d Whether you just want some simple snacks at your party or a thousand hand-folded wontons served from synchronised hot air balloons we can always set up an unique sustainable line-up for your event using our network of  caterers\u200d Good If you like the sound of our carefully crafted plans then we\u2019ll put our production team to work They\u2019ll make sure your event will be better than ever before And the service will be too \u200d While we\u2019re running around and getting stuff done all you have to do is\u2026 well nothing really We\u2019ll make sure you don\u2019t even have to think about the catering for your event for even a second\u200d Get your dancing shoes on and your appetite ready We\u2019ll give you the party everyone",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "\u2026 want that quote for awesome food Fill out this contact form and you\u2019ll get a personal price offer for your next event Non-binding of course Though it\u2019s hard to imagine you saying \u2018no\u2019 to our damn delicious dishes",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Every year TNW bring together international world leaders in technology And ever since  we accept the challenge to solve their most delicious logistical puzzle how to cater for tens of thousands of people three sit-down dinners countless amounts of sub-events and a catering crew of almost  people per day  \u2013stress not found No not even on peak moments where  people all want their lunch at the same time We made sure TNW was culinary care-free all day And while we\u2019re at it we made sure it was all done sustainably We let every visitor discover the future of food We came up with dishes such as \u2018The NextBurger\u2019; a hybrid burger which was made with about 50 less meat paired up with some brilliantly awesome Amsterdam brews",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "I'm baby tilde cray authentic woke Mixtape ennui la croix palo santo brooklyn master cleanse kale chips bitters +1 iPhone You probably haven't heard of them enamel pin hot chicken tousled waistcoat disrupt tilde locavore vaporware butcher tumeric man bun PBRB tousled gochujang crucifix green juice pitchfork migas paleo normcore 90's health goth scenester four dollar toast wayfarers portland We have different partners and locations that we work with often Find them here We have different partners and locations that we work with often Find them here Our chefs are the cream of the crop \u2013 and we have  of \u2018em in our network That way setting up the perfect culinary line-up is easy as pie and always damn delicious Our chefs are the cream of the crop \u2013 and we have  of \u2018em in our network That way setting up the perfect culinary line-up is easy as pie and always damn delicious",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "What are the key partnerships or collaborations related to commerce?",
+            "result": " One key partnership or collaboration related to commerce for The Food Line-up is being certified as a 'B Corp'. This certificate recognizes businesses that are committed to creating an inclusive and sustainable economy, which aligns well with The Food Line-up's mission to introduce people to healthier eating habits while prioritizing sustainability and social responsibility. Additionally, they have formed relationships within the Dutch B Corp community, such as with organizations like Patagonia, Ben & Jerry's, and Tony Chocolonely, among others. These connections help them share knowledge and resources, further strengthening their commitment to making a positive impact through their business practices.",
+            "source": [
+                {
+                    "content": "trusty ol\u2019 meats fish and dairy we constantly strive to surprise you with some vicious veggie violence We always work with the chefs and caterers that conquered and mastered one specific cuisine or dish The true masters of their crafts Local chefs and local produce That means a shorter food supply chain better ingredients and fair prices Don\u2019t throw it out throw it in We avoid wasting food and try to find new ways to use ingredients that would not be used otherwise Whether it\u2019s a sustainable innovation or the latest food trend; with our network we always know a guy Or we know a guy who knows a guy Either way we\u2019ll get it done The Food Line-up is the first European caterer with the \u2018B Corp\u2019 certificate But what does that mean Organisations with this certificate are constantly striving to accomplish their sustainable goals And that makes it THE hallmark for companies that are committed to building an inclusive and sustainable economy with less inequality less poverty a better",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "to accomplish their sustainable goals And that makes it THE hallmark for companies that are committed to building an inclusive and sustainable economy with less inequality less poverty a better environment stronger communities and high-quality jobs Or simply put for a better world Wanna know more Read all about our B Corp score",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Bcorp dus Maar wat is dat precies vraag je Bcorp is een keurmerk voor commerci\u00eble bedrijven die in hun bedrijfsvoering gaan voor een inclusieve en duurzame economie De Bcorp assessment is op bedrijfsvoering met de thema\u2019s bestuur medewerkers klanten maatschappij en milieu \u00a0De B Corp community werkt aan minder ongelijkheid minder armoede een beter milieu sterkere gemeenschappen en het cre\u00ebren van hoogwaardige banen met een doel om de wereld beter te maken Goed gezelschap\u200dIn Nederland vinden we ons in goed gezelschap van andere Bcorp organisaties zoals Patagonia Ben  Jerry\u2019s Yoni Moyee Coffee Dopper Triodos Vandebron Auping en Tony Chocolonely Waarom B Corp\u200dThe Food Line-up is gestart in  met als missie mensen beter eten te laten ontdekken Duurzaamheid zit in ons DNA en dit zie je terug in onze concepten menu\u2019s en het inkoopbeleid Deze inspanningen zijn voor ons vanzelfsprekend en toch vonden we het tijd voor een extern meetinstrument Wij vonden B Corp het meest volledig in haar",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Dit zijn de 5 trends waarmee je \u2018t kerstfeest of de nieuwjaarsborrel in  lekker anders uitpakt dan voorgaande jaren Aandacht daar draait het om Aandacht voor elkaar het eten de sfeer\u2026 Klein is fijn Dus kies \u00f3f een prachtig diner \u00f3f een briljante borrel \u00f3f dat knalfeest Juist door kleiner te gaan kan je een bijzonder moment met je team cre\u00ebren Zeker als je na deze taaie tijd beperkt budget hebt Met een korter programma knip je ook direct in die kostbare personeelsuren - mooi meegenomen Een feestje klein houden Ha-ha Goeie grap Voor iedereen die zich niet wil inhouden is er een uitbundige tegenhanger van die kleine-fijne-trend Let\u2019s go bigger and better om alles wat je in  gemist hebt in te halen Volg het voorbeeld uit  en ga over de top Heb je je budgetten opgespaard en laat je company policy het toe om weer samen te komen Doen doen doen Uit onderzoek blijkt dat weinig dingen zo effectief zijn voor de tevredenheid van je team als een knallend personeelsfeest Goed excuus om extra uit te",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        }
+    ],
+    "Employment & Opportunities": [
+        {
+            "question": "What employment or educational opportunities are currently available?",
+            "result": " Based on the provided text, there seem to be no specific job openings mentioned. However, it does mention that the company is looking for an experienced Account Manager with a minimum of 4-6 years of experience in the event or hospitality industry. Additionally, they might consider extending the current one-year contract if both parties agree upon it. Aside from these positions, there could potentially be other roles within the company related to event management and catering. It would be best to reach out directly to the company to inquire about any available opportunities.",
+            "source": [
+                {
+                    "content": "- Een arbeidsovereenkomst van 1 jaar Daarna kijken we naar verlenging met een nieuw jaarcontract of komt er een vast contract - 25 vakantiedagen + 5 extra collectieve vakantiedagen obv fulltime dienstverband - Werken aan- en voor de mooiste evenementen en opdrachtgevers van Nederland Van The Next Web conference tot BlueCity in Rotterdam - Een springplank om volop mee te groeien in een snelgroeiend bedrijf Mail dan een korte motivatie en je CV naar  We hopen de functie snel in te vullen Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Hi ervaren accountmanager weet jij precies waar mensen trek van krijgen Kom jij altijd lekker uit je woorden en vind je scoren op inhoud en duurzaamheid net zo belangrijk als je targets halen We need you tiger Als senior accountmanager zakelijke markt werk je als project lead aan onze grotere evenementen Spraakmakend en conceptueel diner voor  gasten feestavond met  dorstige gasten of duurzaam congres tot in de puntjes verzorgd Is een uitdaging jou niet snel groot genoeg Lees dan snel verder Als \u00a0accountmanager zet jij de business kansen die je ziet proactief om in resultaten Je hebt ervaring met evenementen en/of catering en hebt zin om met ons verder te bouwen aan een duurzame toekomst Je bent voor onze \u00a0relaties zoals evenementen bureaus en locaties de eerste contactpersoon Aan de hand van de wensen van de opdrachtgevers verzin en bouw jij een geniaal lekker catering concept vanuit ons netwerk van chefs En laat je met jouw voorstel de klant watertandend achter Je weet goed",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "In  bestaat The Food Line-up 10 jaar Maar in plaats van terug te kijken kijken we voorruit naar The Next Decade Dat moet ook wel want in  woon jij samen met 10 miljard anderen op deze aarde en met onze huidige eetgewoontes kunnen we onmogelijk genoeg voedsel produceren om al die monden te voeden Als B Corp catering bureau voelen wij ons verantwoordelijk en is het onze missie om de komende 10 jaar een betere keuze n\u00f3g lekkerder makkelijker en leuker te maken \u2013 voor iedereen Wij zetten onze tanden in de toekomst door onze nieuwe visie op events te laten proeven in een showcase van eetbare verhalen Lees gauw verder en geniet van onze future proof line-ups voor een zakelijk evenement We willen dat grote en abstracte woord \u2018duurzaamheid\u2019 behapbaar te maken Vrij letterlijk eten drinken en service Voor elk type zakelijk evenement bedenken we food line-ups op basis van onze vier principes nog meer groentes lokale expertise minder verspilling en ontelbaar veel nieuwe ontdekkingen Om dit",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "de hand van de wensen van de opdrachtgevers verzin en bouw jij een geniaal lekker catering concept vanuit ons netwerk van chefs En laat je met jouw voorstel de klant watertandend achter Je weet goed prioriteiten te stellen en voelt aan waar potentie zit Bij het schrijven en ontwikkelen van catering offertes houd je direct rekening met operatie Zo weet je haalbare voorstellen te maken die onze missie en de wensen van de opdrachtgever meer dan waarmaken o De behoefte van de opdrachtgever bepalen en vertalen naar food line-ups die passen bij de evenementen o Projectmatig schakelen met interne en externe relaties om de catering op een evenement vlekkeloos te regelen - 4 tot 6 jaar ervaring in de event-branche of hospitality industrie - Heel veel trek om het eten van  chefs te ontdekken - Een arbeidsovereenkomst van 1 jaar Daarna kijken we naar verlenging met een nieuw jaarcontract of komt er een vast contract - 25 vakantiedagen + 5 extra collectieve vakantiedagen obv fulltime",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Are there any events like job fairs, webinars, workshops, or training programs? If yes, list them.",
+            "result": " Yes, there are various types of events similar to job fairs, webinars, workshops, or training programs. Here's a list of some common events:\n\n1. Career Fairs - Events where employers and job seekers come together to discuss potential opportunities.\n2. Conferences - Gatherings focused on specific topics or industries, often featuring keynote speakers, panel discussions, and networking opportunities.\n3. Workshops - Interactive sessions led by experts, designed to teach new skills or provide hands-on experience related to a particular topic.\n4. Webinars - Online presentations or lectures delivered over the internet, typically focusing on a single subject or topic.\n5. Training Programs - Structured courses or classes aimed at developing or improving specific skills or knowledge in a particular area.\n6. Hackathons - Collaborative events where participants work together to develop software, hardware, or other solutions to specified challenges.\n7. Bootcamps - Intensive, short-term programs designed to quickly teach practical skills relevant to a particular field or industry.\n8. Meetups - Informal gatherings organized around shared interests or professions, providing opportunities for networking and learning.",
+            "source": [
+                {
+                    "content": "have that sustainable and/or local touch And thanks to that vision we were the first caterer in Europe to receive the \u2018B Corp\u2019 certificate Drinks with the team A business birthday party for all staff and partners Or would you rather have a parking lot filled with food trucks Your wish is our command\u200d Whether you just want some simple snacks at your party or a thousand hand-folded wontons served from synchronised hot air balloons we can always set up an unique sustainable line-up for your event using our network of  caterers\u200d Good If you like the sound of our carefully crafted plans then we\u2019ll put our production team to work They\u2019ll make sure your event will be better than ever before And the service will be too \u200d While we\u2019re running around and getting stuff done all you have to do is\u2026 well nothing really We\u2019ll make sure you don\u2019t even have to think about the catering for your event for even a second\u200d Get your dancing shoes on and your appetite ready We\u2019ll give you the party everyone",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Really pulling out all the stops With an event stylist we\u2019ll make sure your theme or story is told right down to the left door handle And we prefer to work with our permanent partners because we know that they\u2019ll make the d\u00e9cor as delicious as the dishes\u200d An awesome menu perfectly prepared incredible staff \u2013 where do we sign And we\u2019ll always make sure it has our sustainable signature by working with recycled or reusable materials For example we decorate your event with a jungle full of plants rather than some flowers that wither within a few days",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Thirsty We fill our fridges with artisanal drinks by local makers And in those fridges\u2026well anything goes A cocktail bar We\u2019re ready to shake things up sustainably Coffee We only pour the best And serve the best cookie next to it Juice with your lunch Done \u200d Whatever we serve we like it to be local Because the most sustainable sips are from the suppliers close by And if possible those sips are taken from reusable materials at your event",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Sure it\u2019s nice to have someone able to walk with 6 plates at a time But to us service is more than just that Service should top off your event Like whipped cream on a pie That\u2019s why we work with a colourful team of regular staff who can serve both delicious dishes and their appealing personality \u200d Besides our own crew we\u2019ve had agencies such as Showpony on speed dial for years whenever we\u2019re in need of great staff This way there\u2019s always a top team on board\u2018Cause solid service can make your day \u2013 and your event",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "What employee or participant benefits are highlighted?",
+            "result": " The employee/participant benefits highlighted include:\n\n1. A yearly employment contract, followed by evaluation for contract renewal or transition to a fixed-term contract.\n2. 25 vacation days plus 5 additional collective vacation days (for full-time employees).\n3. Opportunities to work on exciting events and projects with diverse clients across the Netherlands, such as from The Next Web conference to BlueCity in Rotterdam.\n4. A \"springboard\" for personal growth within a rapidly expanding company.\n\nThese benefits emphasize the importance of employee satisfaction, well-being, and professional development.",
+            "source": [
+                {
+                    "content": "to accomplish their sustainable goals And that makes it THE hallmark for companies that are committed to building an inclusive and sustainable economy with less inequality less poverty a better environment stronger communities and high-quality jobs Or simply put for a better world Wanna know more Read all about our B Corp score",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "nothing really We\u2019ll make sure you don\u2019t even have to think about the catering for your event for even a second\u200d Get your dancing shoes on and your appetite ready We\u2019ll give you the party everyone will be talking about for weeks to come Including us \u2018Cause we\u2019d love to evaluate your event somewhere in the upcoming weeks\u200d",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "- Een arbeidsovereenkomst van 1 jaar Daarna kijken we naar verlenging met een nieuw jaarcontract of komt er een vast contract - 25 vakantiedagen + 5 extra collectieve vakantiedagen obv fulltime dienstverband - Werken aan- en voor de mooiste evenementen en opdrachtgevers van Nederland Van The Next Web conference tot BlueCity in Rotterdam - Een springplank om volop mee te groeien in een snelgroeiend bedrijf Mail dan een korte motivatie en je CV naar  We hopen de functie snel in te vullen Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "trusty ol\u2019 meats fish and dairy we constantly strive to surprise you with some vicious veggie violence We always work with the chefs and caterers that conquered and mastered one specific cuisine or dish The true masters of their crafts Local chefs and local produce That means a shorter food supply chain better ingredients and fair prices Don\u2019t throw it out throw it in We avoid wasting food and try to find new ways to use ingredients that would not be used otherwise Whether it\u2019s a sustainable innovation or the latest food trend; with our network we always know a guy Or we know a guy who knows a guy Either way we\u2019ll get it done The Food Line-up is the first European caterer with the \u2018B Corp\u2019 certificate But what does that mean Organisations with this certificate are constantly striving to accomplish their sustainable goals And that makes it THE hallmark for companies that are committed to building an inclusive and sustainable economy with less inequality less poverty a better",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        }
+    ],
+    "Financials & Funding": [
+        {
+            "question": "What are the key takeaways from the most recent financial or earnings report?",
+            "result": " Based on the provided text, there isn't any direct mention of a financial or earnings report. However, if you meant general information about the company's performance, then here are some key points mentioned in the text:\n\n1. Sustainability: The company is committed to achieving sustainable goals, which sets them apart as a B Corp certified organization. This focus on sustainability includes reducing inequality, poverty, creating a better environment, fostering strong communities, and promoting quality jobs.\n2. Catering services: They provide diverse catering options, including meat, fish, dairy, vegetarian, and vegan options. Their goal is to minimize food waste by using locally sourced ingredients from skilled chefs and caterers. Additionally, they are part of the first European catering company to receive the 'B Corp' certificate, showcasing their commitment to sustainability and social responsibility.",
+            "source": [
+                {
+                    "content": "to accomplish their sustainable goals And that makes it THE hallmark for companies that are committed to building an inclusive and sustainable economy with less inequality less poverty a better environment stronger communities and high-quality jobs Or simply put for a better world Wanna know more Read all about our B Corp score",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "nothing really We\u2019ll make sure you don\u2019t even have to think about the catering for your event for even a second\u200d Get your dancing shoes on and your appetite ready We\u2019ll give you the party everyone will be talking about for weeks to come Including us \u2018Cause we\u2019d love to evaluate your event somewhere in the upcoming weeks\u200d",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Want to be everyone\u2019s favourite boss Let\u2019s give your co-workers something to talk about for the Monday meetups at the coffee machine Whether you want to build an entire food festival from the ground up or throw just a \u201cregular\u201d party to boost business morale we\u2019ll make it happen without you having to lift a finger And best of all we\u2019ll make it sustainable and damn delicious too Ready to party Then put those dancing shoes on and ask us for a non-binding offer That's what you can be when your team is happy",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "trusty ol\u2019 meats fish and dairy we constantly strive to surprise you with some vicious veggie violence We always work with the chefs and caterers that conquered and mastered one specific cuisine or dish The true masters of their crafts Local chefs and local produce That means a shorter food supply chain better ingredients and fair prices Don\u2019t throw it out throw it in We avoid wasting food and try to find new ways to use ingredients that would not be used otherwise Whether it\u2019s a sustainable innovation or the latest food trend; with our network we always know a guy Or we know a guy who knows a guy Either way we\u2019ll get it done The Food Line-up is the first European caterer with the \u2018B Corp\u2019 certificate But what does that mean Organisations with this certificate are constantly striving to accomplish their sustainable goals And that makes it THE hallmark for companies that are committed to building an inclusive and sustainable economy with less inequality less poverty a better",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Are there any investor events or funding rounds? If yes then list them.",
+            "result": " Based on the provided information, there isn't any specific mention of investor events or funding rounds related to the companies mentioned above. However, they seem to organize various types of events such as festivals, corporate events, and conferences. These events could potentially attract potential investors or lead to future funding opportunities.",
+            "source": [
+                {
+                    "content": "have that sustainable and/or local touch And thanks to that vision we were the first caterer in Europe to receive the \u2018B Corp\u2019 certificate Drinks with the team A business birthday party for all staff and partners Or would you rather have a parking lot filled with food trucks Your wish is our command\u200d Whether you just want some simple snacks at your party or a thousand hand-folded wontons served from synchronised hot air balloons we can always set up an unique sustainable line-up for your event using our network of  caterers\u200d Good If you like the sound of our carefully crafted plans then we\u2019ll put our production team to work They\u2019ll make sure your event will be better than ever before And the service will be too \u200d While we\u2019re running around and getting stuff done all you have to do is\u2026 well nothing really We\u2019ll make sure you don\u2019t even have to think about the catering for your event for even a second\u200d Get your dancing shoes on and your appetite ready We\u2019ll give you the party everyone",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Thirsty We fill our fridges with artisanal drinks by local makers And in those fridges\u2026well anything goes A cocktail bar We\u2019re ready to shake things up sustainably Coffee We only pour the best And serve the best cookie next to it Juice with your lunch Done \u200d Whatever we serve we like it to be local Because the most sustainable sips are from the suppliers close by And if possible those sips are taken from reusable materials at your event",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Bij Thuishaven gaan we niet terug naar onze festivalroots We houden het zakelijk Want ook voor corporate events is deze culturele vrijhaven van de stad per-fect Tussen de zwierende kranen en het industri\u00eble spoor van de Port of Amsterdam ligt deze rauwe eventlocatie waar bezoekers wekelijks verrast worden met nieuwe idee\u00ebn en concepten En daar voegen wij graag minstens zo verrassende gerechten aan toe Bijvoorbeeld met een food line-up waarbij alles uit een straal van 5 kilometer van dit pracht terrein komt of een diner geheel in circus thema Wil je Voor wie met het OV komt Of parkeren op het terrein \u200d Om steeds iets nieuws te ontdekken en een compleet eigen sfeer neer te kunnen zetten",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "- Een arbeidsovereenkomst van 1 jaar Daarna kijken we naar verlenging met een nieuw jaarcontract of komt er een vast contract - 25 vakantiedagen + 5 extra collectieve vakantiedagen obv fulltime dienstverband - Werken aan- en voor de mooiste evenementen en opdrachtgevers van Nederland Van The Next Web conference tot BlueCity in Rotterdam - Een springplank om volop mee te groeien in een snelgroeiend bedrijf Mail dan een korte motivatie en je CV naar  We hopen de functie snel in te vullen Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "What financial or funding goals have been set for the next period?",
+            "result": " Based on the provided text, there isn't any specific mention of financial or funding goals for the next period. However, some general objectives can be inferred from the context. For instance, the company might aim to expand its operations by participating in various events and attracting new clients through effective marketing strategies. Additionally, they may focus on maintaining strong relationships with existing partners while continuously improving their services to meet customer expectations.",
+            "source": [
+                {
+                    "content": "Dit zijn de 5 trends waarmee je \u2018t kerstfeest of de nieuwjaarsborrel in  lekker anders uitpakt dan voorgaande jaren Aandacht daar draait het om Aandacht voor elkaar het eten de sfeer\u2026 Klein is fijn Dus kies \u00f3f een prachtig diner \u00f3f een briljante borrel \u00f3f dat knalfeest Juist door kleiner te gaan kan je een bijzonder moment met je team cre\u00ebren Zeker als je na deze taaie tijd beperkt budget hebt Met een korter programma knip je ook direct in die kostbare personeelsuren - mooi meegenomen Een feestje klein houden Ha-ha Goeie grap Voor iedereen die zich niet wil inhouden is er een uitbundige tegenhanger van die kleine-fijne-trend Let\u2019s go bigger and better om alles wat je in  gemist hebt in te halen Volg het voorbeeld uit  en ga over de top Heb je je budgetten opgespaard en laat je company policy het toe om weer samen te komen Doen doen doen Uit onderzoek blijkt dat weinig dingen zo effectief zijn voor de tevredenheid van je team als een knallend personeelsfeest Goed excuus om extra uit te",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "- Een arbeidsovereenkomst van 1 jaar Daarna kijken we naar verlenging met een nieuw jaarcontract of komt er een vast contract - 25 vakantiedagen + 5 extra collectieve vakantiedagen obv fulltime dienstverband - Werken aan- en voor de mooiste evenementen en opdrachtgevers van Nederland Van The Next Web conference tot BlueCity in Rotterdam - Een springplank om volop mee te groeien in een snelgroeiend bedrijf Mail dan een korte motivatie en je CV naar  We hopen de functie snel in te vullen Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "to accomplish their sustainable goals And that makes it THE hallmark for companies that are committed to building an inclusive and sustainable economy with less inequality less poverty a better environment stronger communities and high-quality jobs Or simply put for a better world Wanna know more Read all about our B Corp score",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "nothing really We\u2019ll make sure you don\u2019t even have to think about the catering for your event for even a second\u200d Get your dancing shoes on and your appetite ready We\u2019ll give you the party everyone will be talking about for weeks to come Including us \u2018Cause we\u2019d love to evaluate your event somewhere in the upcoming weeks\u200d",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        }
+    ],
+    "Research & Innovation": [
+        {
+            "question": "What are the latest publications, research findings, or introduced technologies?",
+            "result": " Based on the provided text, it seems there have been several innovative collaborations involving circular designs, recycling, upcycling, and waste-free projects. These initiatives aim to create a more sustainable future while also exploring new ways of working together. Some specific examples mentioned include using coffee grounds as a filtration system (Cascara) and transforming office spaces into festive environments for holiday parties. Additionally, there has been a strong emphasis on creating locally sourced, plant-based, and environmentally conscious menus for various events. Overall, it appears that recent developments involve pushing boundaries with creative solutions for a greener world.",
+            "source": [
+                {
+                    "content": "wegen te vinden en \u2019t beter te doen dan de vorige keer Er is ruimte voor innovatieve samenwerkingen circulaire ontwerpen recycling upcycling en afvalvrije projecten waarbij we meteen kunnen zien hoe de meest uiteenlopende groep mensen op ons verse idee reageert We werken hierbij altijd vanuit samenwerkingen Met chefs en producenten die met revolutionaire idee\u00ebn de duurzame transitie versnellen en met opdrachtgevers die de ruimte geven om te experimenteren en te leren Wil jij een zakelijk event organiseren en ben jij er klaar voor om je tanden in de toekomst te zetten Vraag vrijblijvend een offerte aan We kijken uit naar je bericht Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Met internationale gasten wil je ook internationaal serveren Op de beperkte meters van het Transformatorhuis moesten de meest uiteenlopende keukens smaken samenkomen Challenge accepted En daarom kookten wij het beste uit alle hoeken van de wereld Ramen gezonde bowls duck boa\u2019s burgers en vers gemaakte stroopwafels Allemaal knetterend goed bereid door verschillende chefs Voor de nodige focus bouwden we met Cascara de eerste filterkoffiezuil Bakkie tappen en gaan",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Voor deze opdracht zijn wij gevraagd om een kantoor op de Zuidas volledig om te toveren naar een kerstparadijs Hier hebben we vervolgens 18 kerstdiners gegeven Op de 16e verdieping van het ITO-gebouw op de Zuidas zit de bedrijfskantine van Accenture waar dus alles zal plaatsvinden Elke avond komen er 80 medewerkers van Accenture hier een 3-gangen kerstdiner eten",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "producenten chefs makers \u00e9n eters De betere keuze smaakt volgens ons geniaal lekker en is het onze missie om jou dat te laten ontdekken Wij hebben talloze lekkere voorbeelden van events waar je eten vind dat volgens onze principes altijd vers gezond lokaal grotendeels plantaardig en vanuit een circulaire gedachte is gemaakt waarbij afval niet of nauwelijks bestaat Op je bord Ongelofelijk lekkere hybride steak tartaar een broodje falafel van reststromen groente spare ribs van mais of een burger van gambastaartjes We kunnen nog wel even doorgaan want de keuzes zijn oneindig Trek naar meer inspiratie Kijk ons voorbeeldmenu van ons eigen The Next Decade dinner party Omdat elk event maximaal een paar dagen loopt hebben we door het jaar heen honderden kansen om nieuwe dingen te proberen andere wegen te vinden en \u2019t beter te doen dan de vorige keer Er is ruimte voor innovatieve samenwerkingen circulaire ontwerpen recycling upcycling en afvalvrije projecten waarbij we meteen kunnen zien hoe",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Are there any ongoing or upcoming research projects or innovation initiatives? If yes then list them",
+            "result": " Based on the provided text, it seems that the organization is actively involved in various circular design processes, such as using waste products for new value creation, collaborating with innovative suppliers who focus on sustainable practices, and exploring alternative protein sources. However, specific ongoing or upcoming research projects or innovation initiatives are not mentioned directly within the text.",
+            "source": [
+                {
+                    "content": "wegen te vinden en \u2019t beter te doen dan de vorige keer Er is ruimte voor innovatieve samenwerkingen circulaire ontwerpen recycling upcycling en afvalvrije projecten waarbij we meteen kunnen zien hoe de meest uiteenlopende groep mensen op ons verse idee reageert We werken hierbij altijd vanuit samenwerkingen Met chefs en producenten die met revolutionaire idee\u00ebn de duurzame transitie versnellen en met opdrachtgevers die de ruimte geven om te experimenteren en te leren Wil jij een zakelijk event organiseren en ben jij er klaar voor om je tanden in de toekomst te zetten Vraag vrijblijvend een offerte aan We kijken uit naar je bericht Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Dit zijn de 5 trends waarmee je \u2018t kerstfeest of de nieuwjaarsborrel in  lekker anders uitpakt dan voorgaande jaren Aandacht daar draait het om Aandacht voor elkaar het eten de sfeer\u2026 Klein is fijn Dus kies \u00f3f een prachtig diner \u00f3f een briljante borrel \u00f3f dat knalfeest Juist door kleiner te gaan kan je een bijzonder moment met je team cre\u00ebren Zeker als je na deze taaie tijd beperkt budget hebt Met een korter programma knip je ook direct in die kostbare personeelsuren - mooi meegenomen Een feestje klein houden Ha-ha Goeie grap Voor iedereen die zich niet wil inhouden is er een uitbundige tegenhanger van die kleine-fijne-trend Let\u2019s go bigger and better om alles wat je in  gemist hebt in te halen Volg het voorbeeld uit  en ga over de top Heb je je budgetten opgespaard en laat je company policy het toe om weer samen te komen Doen doen doen Uit onderzoek blijkt dat weinig dingen zo effectief zijn voor de tevredenheid van je team als een knallend personeelsfeest Goed excuus om extra uit te",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "vertellen over 'No waste' We voorkomen verspilling door genoeg te serveren proberen samen met onze chefs reststromen aka afval nieuwe waarde te geven en werken met innovatieve producenten die hun product grotendeels van waste maken Ben je ook zo benieuwd naar de pulled bananapeel Contact ons Food Community manager Tessa vertelt je meer over de gedachte achter het concept Kitchen Crossovers Doordat wij altijd ontdekken hebben we een divers netwerk van culinaire partners met de meest uiteenlopende roots Met 'Kitchen Crossovers' vieren we dat veel wereldkeukens op elkaar zijn ge\u00efnspireerd en vieren verbinding aan tafel Wat voor verassende combinatie zou schiet jou te binnen Marketeer Lisanne vertelt je meer onze visie op plantaardige gerechten Juist ook in the next decade willen we constant verrassen met geniaal goede groentes Waardoor we vlees vis en overmatig bewerkte vleesvervangers lekker in de vriezer kunnen laten Beter voor de wereld beter voor ons En hoe denk jij erover om een",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "kortere ketens betere ingredi\u00ebnten en eerlijkere prijzen Of het nou duurzame innovatie is of juist de laatste food trend; we hebben het in ons netwerk En anders vinden we het wel Daarom hebben onze culinaire partners de meest uiteenlopende roots met de bijbehorende bakken aan verse kennis gerechten en ingredi\u00ebnten Met hetzelfde gemak gooi je het NIET in de afvalbak We voorkomen verspilling door precies genoeg te serveren proberen samen met onze chefs reststromen aka afval nieuwe waarde te geven en werken met innovatieve producten die hun product compleet van wastemaken Van alle gerechten die we serveren in  zijn plantaardig in   in  Van al het aanbod komt van een chef binnen 40km Van de ingekochte gerechten wordt geserveerd of vindt een nieuw leven Max 2 van de gerechten wordt weggegooid doordat wij slim in kopen Op onze B corp score duurzaam keurmerk per jaar\u00a0erbij The Food Line-up is de eerste cateraar in Europa met het \u2018B Corp\u2019 - certificaat en daar zijn we uiteraard trots op Wat",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "What research grants or innovation awards have been recently distributed?",
+            "result": " Based on the provided information, there were several notable achievements recognized through various awards and grants. One example is \"Brasserie\" winning multiple international awards, including the Gouden Giraffe Pop die confetti Brasserie  is 'Beste Brand Event '. Another example is Chef Arzu who has received nominations for the Gouden Giraffe in the category of Brand Events. Additionally, Janet's ice cream has gained recognition for its unique flavors and preparation method using nitrogen. Lastly, the event itself may have received funding or support from sponsors or other organizations, but without more specific details, I cannot provide further information regarding recent research grants or innovation awards.",
+            "source": [
+                {
+                    "content": "Every year TNW bring together international world leaders in technology And ever since  we accept the challenge to solve their most delicious logistical puzzle how to cater for tens of thousands of people three sit-down dinners countless amounts of sub-events and a catering crew of almost  people per day  \u2013stress not found No not even on peak moments where  people all want their lunch at the same time We made sure TNW was culinary care-free all day And while we\u2019re at it we made sure it was all done sustainably We let every visitor discover the future of food We came up with dishes such as \u2018The NextBurger\u2019; a hybrid burger which was made with about 50 less meat paired up with some brilliantly awesome Amsterdam brews",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "question with every dish And answered it damn deliciously Together with chef Gilbert Kolff and food entrepreneur Samuel Levie we created an innovative menu with among others no-waste bread a Biddinghuizen salad as the locally produced sister of the Ni\u00e7oise and a steak tartare of 50 meat and 50 bell pepper and watermelon Brasserie  won international awards such as De Gouden SponsorRing the Frame Awards the Restaurant  Bar Design Awards for \u2018Best Pop-up Restaurant\u2019 and the Gouden Giraffe Pop die confetti Brasserie  is 'Beste Brand Event ' Pop die confetti Brasserie  is 'Beste Brand Event ' Pop die confetti Brasserie  is 'Beste Brand Event ' Pop die confetti Brasserie  is 'Beste Brand Event ' Pop die confetti Brasserie  is 'Beste Brand Event ' Taart champagne en nog meer taart Want Brasserie  genomineerd is voor de Gouden Giraffe in de categorie Brand Events Taart champagne en nog meer taart Want Brasserie  genomineerd is voor de Gouden Giraffe in de categorie Brand Events Taart",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "You\u2019ll feel like a kid in a candy shop when Arzu rocks up in the kitchen This Rotterdam chef uses nuts dark chocolate and dates to make food bars and vegan chocolate truffles by hand Will your inner child pick the salted caramel bar the red velvet bar or the hazelbar Our recommendation D all of the above As a dessert after dinner or just something to satisfy your sweet tooth We love to put Arzu\u2019s healthier treats in the following line-ups Keep energy levels soaring with some quick grab  go sandwiches a salad bar healthy crisps energy bars and drinks you can grab from the fridge as you go Who run the world Girls Besides Arzu\u2019s treats you can also taste the healthier Creole kitchen of Pom bar the plant-based power food from BUS Unlimited and dumplings by Maggie",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "A simple scoop of vanilla or chocolate Ha Not with our Janet This ice queen makes her magically smooth ice cream in the craziest and crazily good flavours on the spot It\u2019s the freshest scoop you\u2019ll ever taste Surrounded by a cloud of nitrogen Glacie Fou conjures up ice cream in sweet seasonal flavours We think these crazy desserts are extra cool in the following line-ups Colourful empanadas black bun burgers veggie sushi in every colour of the rainbow and Janet's cotton candy soft serves The brighter the better An experimental walking dinner by food innovators where Janet's dragon breath popcorn literally makes you blow steam",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        }
+    ],
+    "Collaboration & Partnerships": [
+        {
+            "question": "What organizations, institutions, or entities is the organization collaborating with?",
+            "result": " Based on the provided text, the organization is working closely with various clients, event organizers, and other partners involved in organizing different events across Europe. Additionally, they mention being part of the \"Food Line-up,\" which is the first European caterer with the 'B Corp' certificate. This suggests that the company might also be collaborating with other B Corp certified businesses to achieve their sustainability goals. However, there isn't any direct mention of other organizations or entities that the company is actively working with.",
+            "source": [
+                {
+                    "content": "to accomplish their sustainable goals And that makes it THE hallmark for companies that are committed to building an inclusive and sustainable economy with less inequality less poverty a better environment stronger communities and high-quality jobs Or simply put for a better world Wanna know more Read all about our B Corp score",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "trusty ol\u2019 meats fish and dairy we constantly strive to surprise you with some vicious veggie violence We always work with the chefs and caterers that conquered and mastered one specific cuisine or dish The true masters of their crafts Local chefs and local produce That means a shorter food supply chain better ingredients and fair prices Don\u2019t throw it out throw it in We avoid wasting food and try to find new ways to use ingredients that would not be used otherwise Whether it\u2019s a sustainable innovation or the latest food trend; with our network we always know a guy Or we know a guy who knows a guy Either way we\u2019ll get it done The Food Line-up is the first European caterer with the \u2018B Corp\u2019 certificate But what does that mean Organisations with this certificate are constantly striving to accomplish their sustainable goals And that makes it THE hallmark for companies that are committed to building an inclusive and sustainable economy with less inequality less poverty a better",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "in onze concepten menu\u2019s en het inkoopbeleid Deze inspanningen zijn voor ons vanzelfsprekend en toch vonden we het tijd voor een extern meetinstrument Wij vonden B Corp het meest volledig in haar beoordeling en certificering omdat zij alle doelen uit de Sustainable Development GoalsSDG\u2019s van de Verenigde Naties vertalen naar een uitgebreid meetinstrument De SDG\u2019s zijn 17 doelen voor  om ervoor te zorgen dat de planeet leefbaar blijft en bij dat doel sluiten wij ons maar al te graag aan Hoe ziet die certificering eruit\u200dZoals gezegd wordt je bedrijf beoordeeld op bestuur medewerkers klanten maatschappij en milieu Per categorie dient het bedrijf een uitgebreide vragenlijst in waarbij de vragen zijn gebaseerd op de SDG\u2019s Met iedere vraag zijn punten te verdienen Als alle vragen zijn beantwoord wordt het assessment ingediend De organisatie vraagt vervolgens alle benodigde bewijsstukken Wil je meer weten over dit proces en ook Bcorp worden Inside info vind je hier  Met hetzelfde gemak gooi",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "- Een arbeidsovereenkomst van 1 jaar Daarna kijken we naar verlenging met een nieuw jaarcontract of komt er een vast contract - 25 vakantiedagen + 5 extra collectieve vakantiedagen obv fulltime dienstverband - Werken aan- en voor de mooiste evenementen en opdrachtgevers van Nederland Van The Next Web conference tot BlueCity in Rotterdam - Een springplank om volop mee te groeien in een snelgroeiend bedrijf Mail dan een korte motivatie en je CV naar  We hopen de functie snel in te vullen Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Are there any joint events, projects, or initiatives? If yes then list them.",
+            "result": " Yes, there have been several joint events, projects, and initiatives involving Brasserie 164. Some notable collaborations include:\n\n1. Food Festival for KLM Experience Interne Events & Teambuilding - Fysiek: Brasserie 164 partnered with KLM to create a unique food experience during internal company events and physical team building activities.\n2. Sustainability Initiative: As part of their commitment to sustainability, Brasserie 164 has joined forces with other local businesses and organizations to promote eco-friendly practices within the industry. This includes using locally sourced ingredients, reducing waste through reusable materials, and supporting environmentally conscious suppliers.",
+            "source": [
+                {
+                    "content": "Thirsty We fill our fridges with artisanal drinks by local makers And in those fridges\u2026well anything goes A cocktail bar We\u2019re ready to shake things up sustainably Coffee We only pour the best And serve the best cookie next to it Juice with your lunch Done \u200d Whatever we serve we like it to be local Because the most sustainable sips are from the suppliers close by And if possible those sips are taken from reusable materials at your event",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "ontving inmiddels al meerdere prijzen voor het project Wie er als baanbrekend event naar kijkt die ziet het ook per-fect'\u200d We kunnen trouwens nog meer punten taart snijden Naast Brasserie  zijn nog twee van onze food line-ups genomineerd voor een Gouden Giraffe de twee totaal verschillende chef\u2019s tables als onderdeel van Click by Booking  Relatie  Community Events en het complete food festival voor KLM  Experience Interne Events  Teambuilding - Fysiek Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "dankzij die visie ontvingen we als eerste cateraar in Europa het \u2018B Corp\u2019-certificaat Een borrel voor je team Een zakelijk jubileum voor al je werknemers en relaties Of een file aan foodtrucks voor laten rijden Jij vraagt wij \u00a0draaien graag\u200d Of je nou op zoek bent naar duurzame snacks en dranken voor een feestavond of een compleet conceptueel diner wil serveren met ons netwerk van chefs maken wij een unieke duurzame line-up voor jouw event\u200d Mooi Als je ons plan briljant vindt klinken dan zetten wij ons productieteam aan het werk Die regelen dat je event van service tot smaak tot de puntjes geregeld is\u200d We zorgen dat je geen moment teveel over de catering voor je event hoeft na te denken\u200d Het event kan beginnen het eten is binnen We maken sowieso een feestje waar iedereen nog lang over napraat Wij ook Want binnen een een week evalueren we graag samen het event\u200d",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Every year TNW bring together international world leaders in technology And ever since  we accept the challenge to solve their most delicious logistical puzzle how to cater for tens of thousands of people three sit-down dinners countless amounts of sub-events and a catering crew of almost  people per day  \u2013stress not found No not even on peak moments where  people all want their lunch at the same time We made sure TNW was culinary care-free all day And while we\u2019re at it we made sure it was all done sustainably We let every visitor discover the future of food We came up with dishes such as \u2018The NextBurger\u2019; a hybrid burger which was made with about 50 less meat paired up with some brilliantly awesome Amsterdam brews",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "What are the mutual objectives and outcomes expected from these collaborations?",
+            "result": " From the provided information, it appears that there are several collaborative efforts taking place between different parties. These include a potential extension of a one-year employment contract with a new year agreement or a fixed contract instead; working together on events and projects for various clients and partners across the Netherlands, ranging from The Next Web conferences to BlueCity in Rotterdam; and potentially seeking external feedback through the use of a third-party measurement instrument like B Corp certification.\n\nThe common goals among these collaborations seem to revolve around growth, sustainability, and meeting shared objectives. By extending the employment contract, both parties aim to continue their collaboration and achieve mutually beneficial results. Similarly, by working together on various events and projects, they hope to create memorable experiences for their customers while also contributing to a more sustainable future through their actions. Lastly, by pursuing external validation through B Corp certification, they demonstrate a commitment to transparency, accountability, and continuous improvement. Overall, the expected outcomes from these collaborations involve fostering strong relationships, delivering high-quality products and services, and achieving shared goals related to sustainability and growth.",
+            "source": [
+                {
+                    "content": "- Een arbeidsovereenkomst van 1 jaar Daarna kijken we naar verlenging met een nieuw jaarcontract of komt er een vast contract - 25 vakantiedagen + 5 extra collectieve vakantiedagen obv fulltime dienstverband - Werken aan- en voor de mooiste evenementen en opdrachtgevers van Nederland Van The Next Web conference tot BlueCity in Rotterdam - Een springplank om volop mee te groeien in een snelgroeiend bedrijf Mail dan een korte motivatie en je CV naar  We hopen de functie snel in te vullen Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak Met hetzelfde gemak gooi je het niet in de afvalbak",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "in onze concepten menu\u2019s en het inkoopbeleid Deze inspanningen zijn voor ons vanzelfsprekend en toch vonden we het tijd voor een extern meetinstrument Wij vonden B Corp het meest volledig in haar beoordeling en certificering omdat zij alle doelen uit de Sustainable Development GoalsSDG\u2019s van de Verenigde Naties vertalen naar een uitgebreid meetinstrument De SDG\u2019s zijn 17 doelen voor  om ervoor te zorgen dat de planeet leefbaar blijft en bij dat doel sluiten wij ons maar al te graag aan Hoe ziet die certificering eruit\u200dZoals gezegd wordt je bedrijf beoordeeld op bestuur medewerkers klanten maatschappij en milieu Per categorie dient het bedrijf een uitgebreide vragenlijst in waarbij de vragen zijn gebaseerd op de SDG\u2019s Met iedere vraag zijn punten te verdienen Als alle vragen zijn beantwoord wordt het assessment ingediend De organisatie vraagt vervolgens alle benodigde bewijsstukken Wil je meer weten over dit proces en ook Bcorp worden Inside info vind je hier  Met hetzelfde gemak gooi",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Voor het grote AI-congres World Summit AI werden wij doorInspired Minds gevraagd of we het eten konden verzorgen voor de  gasten diehet event bezochten Natuurlijk dat cheffen we",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Dit zijn de 5 trends waarmee je \u2018t kerstfeest of de nieuwjaarsborrel in  lekker anders uitpakt dan voorgaande jaren Aandacht daar draait het om Aandacht voor elkaar het eten de sfeer\u2026 Klein is fijn Dus kies \u00f3f een prachtig diner \u00f3f een briljante borrel \u00f3f dat knalfeest Juist door kleiner te gaan kan je een bijzonder moment met je team cre\u00ebren Zeker als je na deze taaie tijd beperkt budget hebt Met een korter programma knip je ook direct in die kostbare personeelsuren - mooi meegenomen Een feestje klein houden Ha-ha Goeie grap Voor iedereen die zich niet wil inhouden is er een uitbundige tegenhanger van die kleine-fijne-trend Let\u2019s go bigger and better om alles wat je in  gemist hebt in te halen Volg het voorbeeld uit  en ga over de top Heb je je budgetten opgespaard en laat je company policy het toe om weer samen te komen Doen doen doen Uit onderzoek blijkt dat weinig dingen zo effectief zijn voor de tevredenheid van je team als een knallend personeelsfeest Goed excuus om extra uit te",
+                    "metadata": {
+                        "rel": [
+                            "bcorporation",
+                            "linkedin"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        }
+    ]
+}
