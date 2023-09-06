@@ -36,8 +36,11 @@ def create_tab(data):
         (questions))
     if question is not None:
         ques_res = data[question]
+        st.subheader('Question')
         st.write(question)
+        st.subheader('Answer')
         st.write(ques_res['result'])
+        st.subheader('Sources')
         metadata = None
         for i, src in enumerate(ques_res['source']):
             if metadata is None:
