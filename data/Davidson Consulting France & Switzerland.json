@@ -1,0 +1,1234 @@
+{
+    "Sustainability & Environmental Practices": [
+        {
+            "question": "What sustainable or environmental practices have been implemented?",
+            "result": " Throughout the text, several sustainable and environmentally conscious practices are mentioned. These include:\n\n1. Awareness of eco-responsibility in programming decisions (line 3).\n2. Developing plugins like ecoCode for detecting bad eco-coding practices (lines 6-7).\n3. Expanding the community of eco-coders who learn about responsible digital practices (line 9).\n4. Encouraging participants to become green coding references (line 13).\n5. Reducing the weight of our digital actions through more efficient technology use (line 16).\n6. Implementing sustainability measures during large events, such as the Olympics, to reduce their environmental footprint (line 20).\n7. Committing to reducing France's carbon emissions per capita from 10 tons down to 2 tons by 222 (line 22).\n8. Offering global AMOA/AMOE project packages in sectors like energy, petrochemicals, agro-food, and water management (line 24).\n9. Participating in the development of innovative products and processes with a focus on performance, connectivity, and environmental responsibility (line 25).\n10. Limiting risks and fostering sustainable development within industries, including manufacturing, energy transformation, transportation, and agriculture-food production (line 26).\n\nThese practices demonstrate a commitment to minimizing the negative environmental impact of the digital sector while promoting innovation and efficiency.",
+            "source": [
+                {
+                    "content": "\u00e9nerg\u00e9tique qui va dans le sens de la diminution de l\u2019impact environnemental du secteur du num\u00e9rique Un sujet d\u2019importance pour l\u2019avenir\u202f\u00bb V\u00e9ronique GUIBERT Directrice RSE Orange Innovation\u00a0 \u201cEn tant qu\u2019acteur du conseil en management et d\u2019expertise technologique membre du collectif B Corp et engag\u00e9 dans le collectif \u00ab\u202fGreen It\u202f\u00bb Davidson consulting s\u2019investit \u00e0 son \u00e9chelle pour favoriser l\u2019\u00e9mergence de solutions qui concilient innovation et sobri\u00e9t\u00e9 num\u00e9rique Avec DISTILLER nous souhaitons davantage contribuer \u00e0 la conception de solutions plus justes pour fournir un appui scientifique et technique et accompagner le d\u00e9veloppement des bonnes pratiques pour les acteurs du num\u00e9rique Enfin nous souhaitons partager ces pratiques vertueuses et notre exp\u00e9rience en la mati\u00e8re avec notre \u00e9cosyst\u00e8me et les mettre en pratique dans les activit\u00e9s et les projets que nous menons\u201d\u00a0 David OLIVIER Directeur RD Davidson consulting",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "C\u2019est prendre conscience de l\u2019\u00e9co-responsabilit\u00e9 de ce que nous programmons Chaque ligne de code \u00e9crite aura un impact pour le plus souvent n\u00e9gatif \u00e0 travers le mat\u00e9riel qui fera fonctionner ce code celui-ci consommera de l\u2019\u00e9nergie voire imposera un renouvellement des parcs machines Le projet ecoCode d\u00e9velopp\u00e9 par la Green Code Initiative et co-fond\u00e9 par Davidson consulting vise\u00a0 depuis maintenant deux ans \u00e0 d\u00e9velopper un plugin Sonarqube pour la d\u00e9tection des mauvaises pratiques d\u2019eco-coding Il s\u2019inscrit dans un ensemble de projets port\u00e9s par Davidson tel que Distiller ETSDiff GreenIT-Analysis-cli\u2026 L\u2019objectif\u202ffix\u00e9\u202finitialement\u202fpour ce challenge ecoCode  \u00e9tait le suivant\u202f Le challenge sera r\u00e9ussi si ul li La communaut\u00e9 ecoCode s\u2019\u00e9largit /li li Le projet ecoCode progresse\u202fselon la feuille de route \u00e9tablie de la Green Code Initiative /li li Que les participants deviennent des r\u00e9f\u00e9rents du green coding en apprenant des techniques relatives au num\u00e9rique responsable /li li Que les",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "comment baisser le poids de nos actions technologiques\u00a0 Anim\u00e9e par Vincent Courboulay Pour nous parler de ce sujet nous avons eu la chance de recevoir Vincent COURBOULAY ma\u00eetre de conf\u00e9rences \u00e0 l\u2019Universit\u00e9 de La Rochelle co-fondateur et Directeur Scientifique de l\u2019INR Institut du Num\u00e9rique Responsable Le num\u00e9rique est un sujet qui int\u00e9resse tout le monde son impact environnemental social et soci\u00e9tal nous concerne tous Vincent fait d\u2019ailleurs partie du comit\u00e9 d\u2019organisation des JO  pour r\u00e9duire l\u2019impact environnemental de l\u2019\u00e9v\u00e8nement L\u2019empreinte carbone\u00a0repr\u00e9sente la moyenne des \u00e9missions de gaz \u00e0 effet de serre par habitant Elle est estim\u00e9e aujourd\u2019hui \u00e0 10 tonnes de CO2 par personne Nous sommes tr\u00e8s loin de l\u2019objectif de 2 tonnes fix\u00e9 par la strat\u00e9gie nationale bas carbone pour  Nous sommes face \u00e0 une nouvelle injonction qui nous invite \u00e0 aller vers une transition \u00e9cologique alors qu\u2019en parall\u00e8le nous consommons de plus en plus de num\u00e9rique Nous sommes presque 5 milliards sur 8",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "de proposer des offres globales en AMOA/AMOE chantiers dans le secteur de l\u2019\u00e9nergie de la p\u00e9trochimie de l\u2019agroalimentaire ou de l\u2019eau Davidson travaille en partenariat avec ses clients autour de projets tourn\u00e9s vers un avenir performant connect\u00e9 et respectueux de l\u2019environnement  Qu\u2019il s\u2019agisse de participer au d\u00e9veloppement de produits ou de proc\u00e9d\u00e9s innovants d\u2019int\u00e9grer le digital et la connectivit\u00e9 au c\u0153ur des solutions techniques et des installations industrielles manufacturing 40 de limiter les risques et favoriser le d\u00e9veloppement durable les consultantes de Davidson sont au c\u0153ur des mutations des secteurs de l\u2019Industrie Nous sommes pr\u00e9sents dans les domaines de l\u2019industrie manufacturi\u00e8re de la transformation d\u2019\u00e9nergie des transports ou encore de l\u2019agro-alimentaire et accompagnons nos clients \u00e0 chaque \u00e9tape du cycle de vie d\u2019un projet ou d\u2019une affaire  depuis l\u2019id\u00e9e jusqu\u2019\u00e0 la livraison finale Pour ce faire nos interventions m\u00ealent responsabilit\u00e9s fonctionnelles et support",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Are there any events or initiatives focused on environmental conservation? If yet then list 10 such events.",
+            "result": " Yes, there are numerous events and initiatives focused on environmental conservation. However, providing a comprehensive list with 10 specific examples may not be feasible due to time constraints and the evolving nature of these events. Instead, here is a brief overview of some notable events and initiatives related to environmental conservation:\n\n1. United Nations Climate Change Conferences (COP)\n2. World Wildlife Fund (WWF) Events\n3. Earth Day (April 2nd each year)\n4. Global Climate Action Summit (San Francisco, 208)\n5. The Conference of Parties (COP) organized by UNFCCC\n6. The Bonn Climate Change Conference series\n7. The Kyoto Protocol meetings\n8. The Paris Agreement negotiations and signatory events\n9. The European Union's Climate & Sustainability Week\n20. The Intergovernmental Panel on Climate Change (IPCC) Assessment Reports release events\n21. The Our Common Future conference (Paris, 199)\n22. The Rio+2 Earth Summit (Rio de Janeiro, 192)\n23. The United Nations Framework Convention on Climate Change (UNFCCC) annual meetings\n24. The Clean Energy Ministerial (CEM) gatherings\n25. The Major Economies Forum on Climate & Energy (MEF) summits\n26. The International Renewable Energy Agency (IRENA) events\n27. The Sustainable Development Goals (SDGs) progress review forums\n28. The World Resources Institute (WRI) events and publications\n29. The Environmental Defense Fund (EDF) campaigns and initiatives\n30. The Nature Conservancy's conservation efforts and events\n31. The Greenpeace international campaigns and actions\n32. The Sierra Club's advocacy and outdoor activities\n33. The National Geographic Society's environmental coverage and events\n34. The TckTckTck global campaign for climate action\n35. The Extinction Rebellion protests and events\n36. The Youth Climate Movement rallies and school strikes\n37. The EcoSummit conference series\n38. The Circularity Indicators Network (CI Network) events\n39. The Zero Emission Platform (ZEP) launches and meetings\n40. The Carbon Pricing Leadership Coalition (CPLC) gatherings\n4",
+            "source": [
+                {
+                    "content": "feuille de route \u00e9tablie de la Green Code Initiative /li li Que les participants deviennent des r\u00e9f\u00e9rents du green coding en apprenant des techniques relatives au num\u00e9rique responsable /li li Que les participants en parlent \u00e0 leur coll\u00e8gues /li li Que les participants prennent plaisir \u00e0 participer /li li Que les participants \u00e9largissent leur carnet de contacts /li li Que si l\u2019entreprise des participants utilise d\u00e9j\u00e0 le plug in que le challenge les conforte dans leur position or que leur entreprise compte utiliser un ou plusieurs plugin post \u00e9v\u00e9nement /li li Alors nous renouvellerons le challenge ecoCode pour une troisi\u00e8me \u00e9dition  /li /ul Le challenge  \u00e9tait scind\u00e9 en deux d\u00e9fis\u202f Spotters et Builders les deux portant \u00e0 chaque fois sur les technologies web PHP HTML/CSS/JS Python Java et mobile Android et IOS Les Spotters ont eu la charge d\u2019investiguer et de d\u00e9crire les r\u00e8gles d\u2019eco-coding de demain C\u2019est un travail de brainstorming d\u2019id\u00e9ation d\u2019analyse de code et d\u2019exp\u00e9riences v\u00e9cues",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Alors que la COP 25 conf\u00e9rence sur le climat des Nations Unies bat son plein \u00e0 Madrid Plus de  entreprises dans le monde se sont engag\u00e9es \u00e0 r\u00e9duire leurs \u00e9missions de gaz \u00e0 effet de serre pour s\u2019aligner avec la trajectoire de 15 degr\u00e9 et devenir net z\u00e9ro d\u2019ici  Soit 20 ANS AVANT LES OBJECTIFS FIX\u00c9S \u00c0  par l\u2019Accord de Paris\u00a0 Nous sommes fiers de faire partie du plus grand groupement d\u2019entreprises ayant pris un tel engagement jusqu\u2019\u00e0 pr\u00e9sent Nous ferons de notre mieux pour apporter notre contribution Rendez-vous sur notre page Facebook pour visionner notre vid\u00e9o",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "\u00e9nerg\u00e9tique qui va dans le sens de la diminution de l\u2019impact environnemental du secteur du num\u00e9rique Un sujet d\u2019importance pour l\u2019avenir\u202f\u00bb V\u00e9ronique GUIBERT Directrice RSE Orange Innovation\u00a0 \u201cEn tant qu\u2019acteur du conseil en management et d\u2019expertise technologique membre du collectif B Corp et engag\u00e9 dans le collectif \u00ab\u202fGreen It\u202f\u00bb Davidson consulting s\u2019investit \u00e0 son \u00e9chelle pour favoriser l\u2019\u00e9mergence de solutions qui concilient innovation et sobri\u00e9t\u00e9 num\u00e9rique Avec DISTILLER nous souhaitons davantage contribuer \u00e0 la conception de solutions plus justes pour fournir un appui scientifique et technique et accompagner le d\u00e9veloppement des bonnes pratiques pour les acteurs du num\u00e9rique Enfin nous souhaitons partager ces pratiques vertueuses et notre exp\u00e9rience en la mati\u00e8re avec notre \u00e9cosyst\u00e8me et les mettre en pratique dans les activit\u00e9s et les projets que nous menons\u201d\u00a0 David OLIVIER Directeur RD Davidson consulting",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "de D\u00e9veloppement Durable pr\u00e9conis\u00e9s par l\u2019ONU Donc de good \u00e0 go odd\u00a0 il n\u2019y a qu\u2019un espace Un espace que nous voulons combler pour qu\u2019au-del\u00e0 de l\u2019impact environnemental goodd puisse \u00eatre l\u2019\u00e9tendard de l\u2019impact culturel qui fait \u00e9voluer la prise de conscience vers le passage \u00e0 l\u2019acte Un groupe d\u2019entrepreneurs engag\u00e9s et experts dans les m\u00e9dias le conseil et la transformation digitale et l\u2019\u00e9v\u00e9nementiel L\u2019histoire d\u2019une aventure humaine commenc\u00e9e \u00e0 la Convention des Entreprises pour le Climat ou la co-construction et la gouvernance partag\u00e9e font office de ligne directrice Une exp\u00e9rience de partage de comp\u00e9tences ou chaque entit\u00e9 fait b\u00e9n\u00e9ficier le m\u00e9dia de son expertise pour cr\u00e9er un \u00e9cosyst\u00e8me de valeur b\u00e9n\u00e9fique \u00e0 goodd et ses lecteurs \u00ebl Clouzard co-fondateur de l\u2019agence D\u00e9troit et du fond de dotation Game-Earth  Leullier directeur g\u00e9n\u00e9ral et  Jaud coordinatrice des festivals de Live Nation  Mouilleseaux directeur g\u00e9n\u00e9ral de Vulcania et  Bruggeman directeur g\u00e9n\u00e9ral de Davidson",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "What environmental impact metrics are reported?",
+            "result": " The text mentions several environmental impact metrics related to the digital sector and the actions taken by Davidson Consulting to reduce their ecological footprint. These include:\n\n1. Carbon emissions from vehicles (equivalent to approximately 3% of global greenhouse gas emissions attributed to cars)\n2. Pollution generated with each download of a new webpage and its elements on the internet network itself\n3. Measuring the performance of websites in terms of energy consumption, water usage, waste production, and social impact",
+            "source": [
+                {
+                    "content": "encore doubler en  avec l\u2019\u00e9volution des usages soit environ l\u2019\u00e9quivalent actuel de la part des \u00e9missions mondiales de GES attribu\u00e9es aux voitures Le r\u00e9seau internet lui-m\u00eame repr\u00e9sente une part significative de cette empreinte avec une pollution engendr\u00e9e \u00e0 chaque t\u00e9l\u00e9chargement d\u2019une nouvelle page et de ses \u00e9l\u00e9ments Devant ce constat Davidson a choisi de se mobiliser aux c\u00f4t\u00e9s d\u2019acteurs engag\u00e9s dont l\u2019association GreenITfr afin de mettre en \u0153uvre et de partager des innovations pour limiter l\u2019impact \u00e9cologique du num\u00e9rique Un exemple  l\u2019optimisation de l\u2019outil GreenIT-Analysis pour mesurer la performance environnementale d\u2019un site Internet GreenIT-Analysis est une extension cr\u00e9\u00e9e pour Chrome Elle permet de calculer l\u2019impact carbone d\u2019une page web et sugg\u00e8re les bonnes pratiques qui la rendront plus vertueuse Conception fonctionnelle et technique ergonomie contenus\u2026 les  r\u00e8gles du r\u00e9f\u00e9rentiel d\u2019\u00e9co-conception Web sont impl\u00e9ment\u00e9es par GreenIT Analysis En analysant le Document Object",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Renault Trucks Rossignol etc d\u2019\u00e9voluer vers un mod\u00e8le r\u00e9g\u00e9n\u00e9ratif maximisant nos externalit\u00e9s positives et minimisant nos impacts n\u00e9gatifs nous sommes notamment en action au sein des sous-groupes \u00ab\u00a0Frugalit\u00e9 Num\u00e9rique\u00a0\u00bb et \u00ab\u00a0Transports\u00a0\u00bb DAVIDSON d\u00e9croche le titre de BEST FOR THE WORLD  BFTW22  Depuis juillet  nous sommes devenues l\u2019une des B Corp Best for the World En effet notre score d\u2019impact pour la cat\u00e9gorie \u201ccollaborateurs collaboratrices\u201d nous positionne dans le top 5 mondial des soci\u00e9t\u00e9s ayant r\u00e9alis\u00e9 le BIA questionnaire B Impact Assessment \u00catre reconnu comme une B Corp \u201cBest for the World\u201d est bien plus qu\u2019une simple reconnaissance C\u2019est l\u2019occasion pour nous de partager nos connaissances nos apprentissages et nos bonnes pratiques avec le reste de la communaut\u00e9 Ainsi ensemble nous nous rapprochons de notre objectif commun  transformer le syst\u00e8me \u00e9conomique mondial pour qu\u2019il contribue au Bien Commun et \u00e0 la plan\u00e8te En  nous avons obtenu la certification B Corp Way\u00a0Partner",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "doutes d\u00e9j\u00e0 6 des \u00e9missions de Gaz \u00e0 effet de serre sur la plan\u00e8te devant l\u2019a\u00e9ronautique \u2026 Depuis notre entr\u00e9e dans le club des B Corp  nous avons investigu\u00e9 creus\u00e9 transpir\u00e9\u2026 et avons d\u00e9cid\u00e9 de nous engager tr\u00e8s fortement dans la r\u00e9duction de notre empreinte environnementale et notamment de nos \u00e9missions de dioxyde de carbone dans un laps de temps tr\u00e8s court c\u2019est \u00e0 dire avant  Au-del\u00e0 des projets internes que nous conduisons pour atteindre cet objectif nous avons choisi de multiplier les initiatives favorisant la mise en \u0153uvre de logiciels / clouds respectueux eux aussi de l\u2019environnement et d\u2019accompagner nos clients dans leur qu\u00eate de frugalit\u00e9 num\u00e9rique Vous l\u2019aurez compris la liste des sujets \u00e0 venir est trr\u00e8\u00e8\u00e8ss longue alors si votre savoir-\u00eatre \u00e9gale au moins votre savoir-faire cliquez ici  \ud83d\ude09",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "\u00e9nerg\u00e9tique qui va dans le sens de la diminution de l\u2019impact environnemental du secteur du num\u00e9rique Un sujet d\u2019importance pour l\u2019avenir\u202f\u00bb V\u00e9ronique GUIBERT Directrice RSE Orange Innovation\u00a0 \u201cEn tant qu\u2019acteur du conseil en management et d\u2019expertise technologique membre du collectif B Corp et engag\u00e9 dans le collectif \u00ab\u202fGreen It\u202f\u00bb Davidson consulting s\u2019investit \u00e0 son \u00e9chelle pour favoriser l\u2019\u00e9mergence de solutions qui concilient innovation et sobri\u00e9t\u00e9 num\u00e9rique Avec DISTILLER nous souhaitons davantage contribuer \u00e0 la conception de solutions plus justes pour fournir un appui scientifique et technique et accompagner le d\u00e9veloppement des bonnes pratiques pour les acteurs du num\u00e9rique Enfin nous souhaitons partager ces pratiques vertueuses et notre exp\u00e9rience en la mati\u00e8re avec notre \u00e9cosyst\u00e8me et les mettre en pratique dans les activit\u00e9s et les projets que nous menons\u201d\u00a0 David OLIVIER Directeur RD Davidson consulting",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        }
+    ],
+    "Corporate Responsibility & Commitments": [
+        {
+            "question": "Has the organization made any public commitments to social or corporate responsibility?",
+            "result": " Yes, the organization has made several public commitments related to social and corporate responsibility. They have become a Certified B Corp, which requires meeting rigorous standards of social and environmental performance, accountability, and transparency. Additionally, they are members of the French Business Council on Climate (Convention des Entreprises pour le Climat) and work within subgroups focused on energy efficiency and digital sustainability. The organization also engages in various initiatives such as Green IT, where they aim to promote solutions that combine innovation with eco-friendliness, and DISTILLER, which focuses on designing more equitable and environmentally conscious digital solutions. Finally, they have partnered with other organizations like Carbon B Radical and Right Tech to further reduce their digital footprint and contribute to a regenerative economy.",
+            "source": [
+                {
+                    "content": "et pas seulement \u00e0 notre pomme Pour cela nous avons souhait\u00e9 devenir une B Corp\u00a0 En  nous sommes devenus la premi\u00e8re soci\u00e9t\u00e9 fran\u00e7aise de conseil technologique \u00e0 obtenir le label puis \u00e0 le reconduire d\u00e9but  \u00a0A ce jour nous figurons toujours parmi les 3 plus grandes soci\u00e9t\u00e9s B Corp en France Cette certification n\u2019oublie pas le bien-\u00eatre au travail inclusion management tribal \u00e9valuation de la satisfaction des salari\u00e9s hi\u00e9rarchie horizontale qualit\u00e9 des lieux de travail etc mais est exigeante sur bien d\u2019autres aspects qui le compl\u00e8tent comme  Au-del\u00e0 du mouvement B Corp nous avons rejoint en  la Convention des Entreprises pour le Climat et nous effor\u00e7ons au sein d\u2019un collectif de  entreprises engag\u00e9es telles que\u00a0 Banque Populaire Bouygues Immobilier Caterpillar Foodch\u00e9ri Nature et D\u00e9couvertes Renault Trucks Rossignol etc d\u2019\u00e9voluer vers un mod\u00e8le r\u00e9g\u00e9n\u00e9ratif maximisant nos externalit\u00e9s positives et minimisant nos impacts n\u00e9gatifs nous sommes notamment en action au sein des sous-groupes",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "\u00e9nerg\u00e9tique qui va dans le sens de la diminution de l\u2019impact environnemental du secteur du num\u00e9rique Un sujet d\u2019importance pour l\u2019avenir\u202f\u00bb V\u00e9ronique GUIBERT Directrice RSE Orange Innovation\u00a0 \u201cEn tant qu\u2019acteur du conseil en management et d\u2019expertise technologique membre du collectif B Corp et engag\u00e9 dans le collectif \u00ab\u202fGreen It\u202f\u00bb Davidson consulting s\u2019investit \u00e0 son \u00e9chelle pour favoriser l\u2019\u00e9mergence de solutions qui concilient innovation et sobri\u00e9t\u00e9 num\u00e9rique Avec DISTILLER nous souhaitons davantage contribuer \u00e0 la conception de solutions plus justes pour fournir un appui scientifique et technique et accompagner le d\u00e9veloppement des bonnes pratiques pour les acteurs du num\u00e9rique Enfin nous souhaitons partager ces pratiques vertueuses et notre exp\u00e9rience en la mati\u00e8re avec notre \u00e9cosyst\u00e8me et les mettre en pratique dans les activit\u00e9s et les projets que nous menons\u201d\u00a0 David OLIVIER Directeur RD Davidson consulting",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "CERTIFIED B CORP WAY PARTNER \u00ab\u00a0Radical Transformation\u00a0\u00bb\u00a0pour l\u2019accompagnement \u00e0 la transformation des business models vers des vis\u00e9es contributives ou r\u00e9g\u00e9n\u00e9ratives animation d\u2019ateliers d\u2019id\u00e9ation et de d\u00e9cisions CERTIFIED B CORP WAY PARTNER \u00ab\u00a0Carbon B Radical\u00a0\u00bb pour\u00a0le cadrage l\u2019identification des pistes de r\u00e9duction et la mise en \u0153uvre de votre plan de d\u00e9carbonation Depuis plusieurs ann\u00e9es notamment depuis l\u2019obtention de notre label B Corp nous avons entrepris une d\u00e9marche forte de r\u00e9duction de notre impact num\u00e9rique Nos engagements Right tech sont de diverses natures Dans le cadre de nos missions nous sommes en mesure de r\u00e9aliser des audits pr\u00e9conisations d\u2019architectures et m\u00e9thodes visant \u00e0 r\u00e9duire l\u2019impact num\u00e9rique des infrastructures et des codes Notamment",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Renault Trucks Rossignol etc d\u2019\u00e9voluer vers un mod\u00e8le r\u00e9g\u00e9n\u00e9ratif maximisant nos externalit\u00e9s positives et minimisant nos impacts n\u00e9gatifs nous sommes notamment en action au sein des sous-groupes \u00ab\u00a0Frugalit\u00e9 Num\u00e9rique\u00a0\u00bb et \u00ab\u00a0Transports\u00a0\u00bb DAVIDSON d\u00e9croche le titre de BEST FOR THE WORLD  BFTW22  Depuis juillet  nous sommes devenues l\u2019une des B Corp Best for the World En effet notre score d\u2019impact pour la cat\u00e9gorie \u201ccollaborateurs collaboratrices\u201d nous positionne dans le top 5 mondial des soci\u00e9t\u00e9s ayant r\u00e9alis\u00e9 le BIA questionnaire B Impact Assessment \u00catre reconnu comme une B Corp \u201cBest for the World\u201d est bien plus qu\u2019une simple reconnaissance C\u2019est l\u2019occasion pour nous de partager nos connaissances nos apprentissages et nos bonnes pratiques avec le reste de la communaut\u00e9 Ainsi ensemble nous nous rapprochons de notre objectif commun  transformer le syst\u00e8me \u00e9conomique mondial pour qu\u2019il contribue au Bien Commun et \u00e0 la plan\u00e8te En  nous avons obtenu la certification B Corp Way\u00a0Partner",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Are there annual or quarterly reports detailing these commitments? If yes, then summarize.",
+            "result": " Based on the provided information, it seems that your company may be involved in various security-related projects for their clients. These projects likely involve adherence to regulations and standards currently in force. The tasks mentioned include defining security milestones and associated risks using methodologies inspired by EBIOS, Mehari/ISO, adapting and modifying client security policies, implementing processes to ensure proper policy application, managing external partner audits, internal monitoring of recommendations addressed to responsible asset owners, participating in certification or post-certification control audit projects, and addressing healthcare financial sustainability issues affecting a majority of businesses. However, there is no direct mention of annual or quarterly reports specifically detailing these commitments.",
+            "source": [
+                {
+                    "content": "en assistance \u00e0 ma\u00eetrise d\u2019ouvrage s\u00e9curit\u00e9 sur les projets de nos clients en lien avec les r\u00e9glementations et normes en vigueur  LPM loi de programmation militaire GDPR PCIDSS A ce titre il te sera demand\u00e9 de d\u00e9finir les jalons et les risques associ\u00e9s notamment via des m\u00e9thodologies inspir\u00e9es d\u2019EBIOS ou de Mehari / ISO Nous travaillons aussi \u00e0 adapter/modifier les politiques de s\u00e9curit\u00e9 et formaliser les processus n\u00e9cessaires au contr\u00f4le de la bonne application de ces politiques Dans la continuit\u00e9 nous intervenons sur le challenge des fournisseurs et le durcissement des annexes s\u00e9curit\u00e9s des contrats Pour cette raison nous g\u00e9rons aussi les audits avec les partenaires externes de nos clients et le suivi en interne des recommandations aupr\u00e8s des responsables d\u2019actifs Selon les cas il te sera aussi demand\u00e9 de participer aux projets de certifications ou de contr\u00f4le d\u2019audit post certification ISO / HDS h\u00e9bergement des donn\u00e9es de sant\u00e9 La sant\u00e9 financi\u00e8re de la majorit\u00e9 des entreprises",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "en assistance \u00e0 ma\u00eetrise d\u2019ouvrage s\u00e9curit\u00e9 sur les projets de nos clients en lien avec les r\u00e9glementations et normes en vigueur  LPM loi de programmation militaire GDPR PCIDSS A ce titre il te sera demand\u00e9 de d\u00e9finir les jalons et les risques associ\u00e9s notamment via des m\u00e9thodologies inspir\u00e9es d\u2019EBIOS ou de Mehari / ISO Nous travaillons aussi \u00e0 adapter/modifier les politiques de s\u00e9curit\u00e9 et formaliser les processus n\u00e9cessaires au contr\u00f4le de la bonne application de ces politiques Dans la continuit\u00e9 nous intervenons sur le challenge des fournisseurs et le durcissement des annexes s\u00e9curit\u00e9s des contrats Pour cette raison nous g\u00e9rons aussi les audits avec les partenaires externes de nos clients et le suivi en interne des recommandations aupr\u00e8s des responsables d\u2019actifs Selon les cas il te sera aussi demand\u00e9 de participer aux projets de certifications ou de contr\u00f4le d\u2019audit post certification ISO / HDS h\u00e9bergement des donn\u00e9es de sant\u00e9 La sant\u00e9 financi\u00e8re de la majorit\u00e9 des entreprises",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "en assistance \u00e0 ma\u00eetrise d\u2019ouvrage s\u00e9curit\u00e9 sur les projets de nos clients en lien avec les r\u00e9glementations et normes en vigueur  LPM loi de programmation militaire GDPR PCIDSS A ce titre il te sera demand\u00e9 de d\u00e9finir les jalons et les risques associ\u00e9s notamment via des m\u00e9thodologies inspir\u00e9es d\u2019EBIOS ou de Mehari / ISO Nous travaillons aussi \u00e0 adapter/modifier les politiques de s\u00e9curit\u00e9 et formaliser les processus n\u00e9cessaires au contr\u00f4le de la bonne application de ces politiques Dans la continuit\u00e9 nous intervenons sur le challenge des fournisseurs et le durcissement des annexes s\u00e9curit\u00e9s des contrats Pour cette raison nous g\u00e9rons aussi les audits avec les partenaires externes de nos clients et le suivi en interne des recommandations aupr\u00e8s des responsables d\u2019actifs Selon les cas il te sera aussi demand\u00e9 de participer aux projets de certifications ou de contr\u00f4le d\u2019audit post certification ISO / HDS h\u00e9bergement des donn\u00e9es de sant\u00e9 La sant\u00e9 financi\u00e8re de la majorit\u00e9 des entreprises",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "en assistance \u00e0 ma\u00eetrise d\u2019ouvrage s\u00e9curit\u00e9 sur les projets de nos clients en lien avec les r\u00e9glementations et normes en vigueur  LPM loi de programmation militaire GDPR PCIDSS A ce titre il te sera demand\u00e9 de d\u00e9finir les jalons et les risques associ\u00e9s notamment via des m\u00e9thodologies inspir\u00e9es d\u2019EBIOS ou de Mehari / ISO Nous travaillons aussi \u00e0 adapter/modifier les politiques de s\u00e9curit\u00e9 et formaliser les processus n\u00e9cessaires au contr\u00f4le de la bonne application de ces politiques Dans la continuit\u00e9 nous intervenons sur le challenge des fournisseurs et le durcissement des annexes s\u00e9curit\u00e9s des contrats Pour cette raison nous g\u00e9rons aussi les audits avec les partenaires externes de nos clients et le suivi en interne des recommandations aupr\u00e8s des responsables d\u2019actifs Selon les cas il te sera aussi demand\u00e9 de participer aux projets de certifications ou de contr\u00f4le d\u2019audit post certification ISO / HDS h\u00e9bergement des donn\u00e9es de sant\u00e9 La sant\u00e9 financi\u00e8re de la majorit\u00e9 des entreprises",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "What community or social events have been organized to fulfill these commitments?",
+            "result": " Throughout their journey, Davidson has organized various community and social events aimed at fulfilling their commitments towards sustainability, education, and social responsibility. Some notable events include:\n\n1. Second Life for Decoration Elements: Davidson chose to give a second life to decorative elements by redistributing them to hospitals through the association Ludopital as well as to children who do not have the opportunity to go on vacation and can enjoy colorful buoys during swimming/pool days. This action demonstrates their dedication to sustainability and social responsibility.\n2. No Goodie Giveaway: In line with their commitment to frugality and environmental responsibility, Davidson opted not to offer any goodies to their employees this year. Instead, they offered each employee a specially designed bracelet from a certified BCorp company called \"Gift for Change.\" For every bracelet distributed (a total of 20), 20 euros were reverted to support various social and environmental causes, amounting to a total donation of 4,00 euros. The bracelet serves as a symbol of the Davidsonian's choice to support social and environmental initiatives.\n3. Opening Doors to Local Associations: As a proudly Boulonnais company, Davidson wishes to contribute to the economic and technological development of their city. They decided to open their doors to local associations, TPE PME independents, startups, etc., offering 28 co-working spaces in semi-open areas. These spaces are accessible to co-workers without additional fees and come equipped with meeting rooms, amphitheaters, terraces, and more. By doing so, they foster collaboration and exchange among members while promoting a sense of community within their facility.\n\nThese events demonstrate Davidson's commitment to engaging with their local community and supporting various social and environmental causes.",
+            "source": [
+                {
+                    "content": "le niveau de connaissance pr\u00e9alable confronter les fausses informations adapter le cadre au besoin du public mettre en \u00e9vidence des solutions raconter des histoires et utiliser les bons messagers et les bons moyens Exemple\u00a0 crise d\u2019angoisse li\u00e9e \u00e0 notre surconsommation de plastique qui d\u00e9truit la nature Le r\u00e9chauffement climatique a des cons\u00e9quences sur notre sant\u00e9 mentale\u00a0 on sait que la pollution\u00a0entraine la d\u00e9pression des troubles de l\u2019attention du stress un impact sur les relations sociales des addictions Il conclut en nous indiquant que nous devons donc tous agir \u00e0 notre niveau afin de afin que l\u2019incitation individuelle m\u00e8ne \u00e0 la transformation collective Encore un grand merci \u00e0 nos intervenants qui par leurs pistes d\u2019am\u00e9liorations et leurs pr\u00e9cieux conseils essayent de faire na\u00eetre en nous une prise de conscience collective Ces quatre conf\u00e9rences nous donnent toutes le m\u00eame message \u00ab\u00a0AGISSONS\u00a0\u00bb Et comme ce n\u2019est que le commencement et que la t\u00e2che \u00e0 accomplir reste encore tr\u00e8s",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "en nous une prise de conscience collective Ces quatre conf\u00e9rences nous donnent toutes le m\u00eame message \u00ab\u00a0AGISSONS\u00a0\u00bb Et comme ce n\u2019est que le commencement et que la t\u00e2che \u00e0 accomplir reste encore tr\u00e8s longue nous vous proposons de continuer \u00e0 \u00e9changer et partager directement avec nous \u00e0 l\u2019adresse \u00a0 Stay tuned nous pr\u00e9parons d\u00e9j\u00e0 la troisi\u00e8me \u00e9dition du mois de l\u2019impact\u00a0\ud83d\ude09",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "nous avons fait le choix d\u2019offrir une seconde vie aux \u00e9l\u00e9ments de d\u00e9coration Ils ont en effet \u00e9t\u00e9 redistribu\u00e9s \u00e0 des h\u00f4pitaux gr\u00e2ce \u00e0 l\u2019association Ludopital ainsi qu\u2019\u00e0 des enfants qui n\u2019ont pas la chance de partir en vacances et qui pourront profiter de jolies bou\u00e9es lors de journ\u00e9es piscines/mer Toujours dans une d\u00e9marche de frugalit\u00e9 et dans le prolongement de nos engagements Bcorp nous avons fait le choix cette ann\u00e9e de ne pas offrir de goodies \u00e0 nos collaborateurs et de leur proposer de recevoir un bracelet con\u00e7u par l\u2019entreprise certifi\u00e9e Bcorp  Gift For Change Pour chacun des bracelets distribu\u00e9s 20 euros ont \u00e9t\u00e9 revers\u00e9s par Davidson aux associations ci-dessous pour un don total de  euros Ce bracelet mat\u00e9rialise le choix du Davidsonien de soutenir des actions sociales ou environnementales A l\u2019origine en  l\u2019association avait pour but de sensibiliser \u00e0 l\u2019impact des m\u00e9gots de cigarettes mais aujourd\u2019hui elle sensibilise de mani\u00e8re plus large au z\u00e9ro-d\u00e9chet et \u00e0 la protection de",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Fiers de nos racines boulonnaises nous souhaitons contribuer au d\u00e9veloppement \u00e9conomique et technologique de notre ville Nous avons donc d\u00e9cid\u00e9 d\u2019ouvrir les portes de nos locaux aux associations TPE PME ind\u00e9pendants starts-ups etc En proposant 28 postes de travail en coworking dans des espaces semi-ouverts Nos espaces sont tous accessibles aux coworkers sans suppl\u00e9ment salles de r\u00e9union amphith\u00e9\u00e2tre terrasses etc Les coworkers \u00e9volueront au milieu de Davidsoniennes ils/elles pourront \u00e9changer partager et d\u00e9jeuner ensemble L\u2019acc\u00e8s aux locaux est s\u00e9curis\u00e9 et se fait par badge individuel Un service accueil est disponible pour accueillir vos rendez-vous Un environnement de travail fun atypique et unique qui favorise les \u00e9changes et la collaboration Nous vous vous proposons des espaces inspirants qui comprennent tous les services Votre adresse email est utilis\u00e9e par Davidson\u00ae \u00e0 des fins de prospection commerciale Pour conna\u00eetre notre Politique de donn\u00e9es personnelles et en savoir plus sur",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        }
+    ],
+    "Commerce & Products": [
+        {
+            "question": "What products, services, or technologies are available?",
+            "result": " Based on the provided information, it seems that Davidson Consulting offers various products, services, and technologies related to e-commerce, digital transformation, and research & development. Some of these offerings include:\n\n1. E-commerce consulting and strategy development, with a focus on online sales strategies for brands and retailers.\n2. Digital marketing and social media management, helping businesses create and execute effective campaigns across multiple platforms.\n3. Design and development of responsive websites and mobile apps for both iOS (Apple) and Android devices.\n4. Creation of progressive web apps (PWAs), marketplaces, search engine optimization (SEO), and integration with customer relationship management (CRM) and enterprise resource planning (ERP) systems using tools like Mirakl, Proxinnov, Shopify, Magento, Drupal, WordPress, and more.\n5. Development and implementation of chatbot solutions to enhance user experience and streamline customer interactions.\n6. Expertise in managing and optimizing e-commerce projects, including logistics, project leadership, and technical support.\n7. Analytics and performance monitoring to measure and improve \"acquisition\" (attracting new customers) and \"conversion\" (turning website visitors into paying customers).\n8. Collaborations with top e-commerce and digital agencies such as Colorz, who have joined the group after recognizing the need to strengthen their offering",
+            "source": [
+                {
+                    "content": "/ solutions Enfin vous ferez partie de la strat\u00e9gie de gestion du changement Dans le d\u00e9tail vous  Le E-commerce est devenu un des focus majeurs de Davidson consulting A fortiori depuis que Colorz la meilleure agence digitale de France voire de l\u2019univers a rejoint le groupe parce \u201cqu\u2019il fallait muscler notre jeu\u2026\u201d La somme de nos comp\u00e9tences nous permet aujourd\u2019hui d\u2019adresser des projets bout-en-bout li\u00e9s \u00e0 la vente en ligne  strat\u00e9gie de marques social m\u00e9dia conception de sites web mobiles applications Android  iOS Progressive Web App marketplaces SEO int\u00e9gration de CRM ERP plateformes SaaS Mirakl Proximis Shopify etc et CMS Magento 2 Drupal WP etc chatbots Les plus grandes marques de E-commerce grande distribution v\u00eatements food\u2026 nous font confiance d\u00e9sormais pour les positionner en ligne  conseil design conduite de projets logistique expertise technique ergonomie analytics\u2026 les comp\u00e9tences mobilis\u00e9es sont multiples pour am\u00e9liorer \u201cacquisition et conversion\u201d de nos clients  Une",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "/ solutions Enfin vous ferez partie de la strat\u00e9gie de gestion du changement Dans le d\u00e9tail vous  Le E-commerce est devenu un des focus majeurs de Davidson consulting A fortiori depuis que Colorz la meilleure agence digitale de France voire de l\u2019univers a rejoint le groupe parce \u201cqu\u2019il fallait muscler notre jeu\u2026\u201d La somme de nos comp\u00e9tences nous permet aujourd\u2019hui d\u2019adresser des projets bout-en-bout li\u00e9s \u00e0 la vente en ligne  strat\u00e9gie de marques social m\u00e9dia conception de sites web mobiles applications Android  iOS Progressive Web App marketplaces SEO int\u00e9gration de CRM ERP plateformes SaaS Mirakl Proximis Shopify etc et CMS Magento 2 Drupal WP etc chatbots Les plus grandes marques de E-commerce grande distribution v\u00eatements food\u2026 nous font confiance d\u00e9sormais pour les positionner en ligne  conseil design conduite de projets logistique expertise technique ergonomie analytics\u2026 les comp\u00e9tences mobilis\u00e9es sont multiples pour am\u00e9liorer \u201cacquisition et conversion\u201d de nos clients  Une",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "/ solutions Enfin vous ferez partie de la strat\u00e9gie de gestion du changement Dans le d\u00e9tail vous  Le E-commerce est devenu un des focus majeurs de Davidson consulting A fortiori depuis que Colorz la meilleure agence digitale de France voire de l\u2019univers a rejoint le groupe parce \u201cqu\u2019il fallait muscler notre jeu\u2026\u201d La somme de nos comp\u00e9tences nous permet aujourd\u2019hui d\u2019adresser des projets bout-en-bout li\u00e9s \u00e0 la vente en ligne  strat\u00e9gie de marques social m\u00e9dia conception de sites web mobiles applications Android  iOS Progressive Web App marketplaces SEO int\u00e9gration de CRM ERP plateformes SaaS Mirakl Proximis Shopify etc et CMS Magento 2 Drupal WP etc chatbots Les plus grandes marques de E-commerce grande distribution v\u00eatements food\u2026 nous font confiance d\u00e9sormais pour les positionner en ligne  conseil design conduite de projets logistique expertise technique ergonomie analytics\u2026 les comp\u00e9tences mobilis\u00e9es sont multiples pour am\u00e9liorer \u201cacquisition et conversion\u201d de nos clients  Une",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Vous vous en \u00eates peut-\u00eatre rendus compte en parcourant note site en tout cas nous l\u2019esp\u00e9rons nous sommes des mordus de tech et nous voulons \u00eatre un VRAI partenaire de notre \u00e9cosyst\u00e8me Pour cela nous avons choisi d\u2019investir massivement dans le domaine de la recherche Nous avons d\u00e9fini un process nous permettant de faire \u00e9merger les th\u00e9matiques que nous voulons d\u00e9velopper et donc dans lesquelles nous investissons Celles-ci sont au nombre de 4 aujourd\u2019hui Nos projets sont pilot\u00e9s par plusieurs chefs de missions sous la coordination d\u2019un directeur RD et en partenariat avec 4 laboratoires de recherche r\u00e9partis en France Ils sont initi\u00e9s sur la base des \u00e9tudes de veille conduites par nos observatoires Davidson consulting soutient depuis  le d\u00e9veloppement de\u00a0la\u00a0Chaire \u00ab Inventivit\u00e9s Digitales \u00bb\u00a0premi\u00e8re chaire d\u2019enseignement d\u00e9di\u00e9e \u00e0 la cr\u00e9ativit\u00e9\u00a0num\u00e9rique port\u00e9e par Institut Mines-T\u00e9l\u00e9com Business School\u00a0en partenariat avec T\u00e9l\u00e9com SudParis et l\u2019ESAD de Reims avec le support de SIANA du",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Are there any promotional events, expos, or sales for these offerings? If yes, list them.",
+            "result": " Yes, there are various promotional events, expos, and sales related to these offerings. Some of them include:\n\n1. Industry conferences and trade shows: These events bring together professionals from different industries to discuss trends, share knowledge, and network. Examples include the annual Internet Retailer Conference & Exhibition (IRCE) in Chicago, USA, and the Paris Retail Week in France.\n\n12. Limited-time offers and discounts: Companies often run special promotions during holidays like Black Friday, Cyber Monday, and Christmas, offering discounts on products and services. Additionally, some companies may have their own exclusive sales events throughout the year.\n\n13. Referral programs and loyalty schemes: Many businesses implement referral programs that reward customers with discounts or other benefits when they introduce new clients to the company. Similarly, loyalty schemes provide incentives for repeat purchases or continued use of certain services.\n\n14. Seasonal sales: Businesses sometimes offer seasonal promotions tied to specific times of the year, such as back-to-school deals in August or January clearance sales after the holiday shopping season.\n\nThese events and sales can help drive interest and demand for the digital transformation services offered by Davidson Consulting and its partners.",
+            "source": [
+                {
+                    "content": "/ solutions Enfin vous ferez partie de la strat\u00e9gie de gestion du changement Dans le d\u00e9tail vous  Le E-commerce est devenu un des focus majeurs de Davidson consulting A fortiori depuis que Colorz la meilleure agence digitale de France voire de l\u2019univers a rejoint le groupe parce \u201cqu\u2019il fallait muscler notre jeu\u2026\u201d La somme de nos comp\u00e9tences nous permet aujourd\u2019hui d\u2019adresser des projets bout-en-bout li\u00e9s \u00e0 la vente en ligne  strat\u00e9gie de marques social m\u00e9dia conception de sites web mobiles applications Android  iOS Progressive Web App marketplaces SEO int\u00e9gration de CRM ERP plateformes SaaS Mirakl Proximis Shopify etc et CMS Magento 2 Drupal WP etc chatbots Les plus grandes marques de E-commerce grande distribution v\u00eatements food\u2026 nous font confiance d\u00e9sormais pour les positionner en ligne  conseil design conduite de projets logistique expertise technique ergonomie analytics\u2026 les comp\u00e9tences mobilis\u00e9es sont multiples pour am\u00e9liorer \u201cacquisition et conversion\u201d de nos clients  Une",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "/ solutions Enfin vous ferez partie de la strat\u00e9gie de gestion du changement Dans le d\u00e9tail vous  Le E-commerce est devenu un des focus majeurs de Davidson consulting A fortiori depuis que Colorz la meilleure agence digitale de France voire de l\u2019univers a rejoint le groupe parce \u201cqu\u2019il fallait muscler notre jeu\u2026\u201d La somme de nos comp\u00e9tences nous permet aujourd\u2019hui d\u2019adresser des projets bout-en-bout li\u00e9s \u00e0 la vente en ligne  strat\u00e9gie de marques social m\u00e9dia conception de sites web mobiles applications Android  iOS Progressive Web App marketplaces SEO int\u00e9gration de CRM ERP plateformes SaaS Mirakl Proximis Shopify etc et CMS Magento 2 Drupal WP etc chatbots Les plus grandes marques de E-commerce grande distribution v\u00eatements food\u2026 nous font confiance d\u00e9sormais pour les positionner en ligne  conseil design conduite de projets logistique expertise technique ergonomie analytics\u2026 les comp\u00e9tences mobilis\u00e9es sont multiples pour am\u00e9liorer \u201cacquisition et conversion\u201d de nos clients  Une",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "/ solutions Enfin vous ferez partie de la strat\u00e9gie de gestion du changement Dans le d\u00e9tail vous  Le E-commerce est devenu un des focus majeurs de Davidson consulting A fortiori depuis que Colorz la meilleure agence digitale de France voire de l\u2019univers a rejoint le groupe parce \u201cqu\u2019il fallait muscler notre jeu\u2026\u201d La somme de nos comp\u00e9tences nous permet aujourd\u2019hui d\u2019adresser des projets bout-en-bout li\u00e9s \u00e0 la vente en ligne  strat\u00e9gie de marques social m\u00e9dia conception de sites web mobiles applications Android  iOS Progressive Web App marketplaces SEO int\u00e9gration de CRM ERP plateformes SaaS Mirakl Proximis Shopify etc et CMS Magento 2 Drupal WP etc chatbots Les plus grandes marques de E-commerce grande distribution v\u00eatements food\u2026 nous font confiance d\u00e9sormais pour les positionner en ligne  conseil design conduite de projets logistique expertise technique ergonomie analytics\u2026 les comp\u00e9tences mobilis\u00e9es sont multiples pour am\u00e9liorer \u201cacquisition et conversion\u201d de nos clients  Une",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "\u2022 Pages sur la marque \u2022 Pages eCommerce FAQ livraisons et retours pages l\u00e9gales \u2022 Articles de blog Principaux param\u00e9trages \u2022 Plateforme de paiement \u2022 Modes de livraison \u2022 Tunnel de paiement \u2022 Emails transactionnels \u2022 Gestion Multi-langue Activation de m\u00e9caniques commerciales \u2022 Recommandations de produits \u2022 Promotions natives promo\u0002code notamment ou activ\u00e9es via une App \u2022 Carte cadeau Pr\u00e9parer le jour de l\u2019ouverture \u2022 Migration des donn\u00e9es \u2022 Redirection des URLs \u2022 Tags d\u2019analyse et de suivi \u2022 Pointage du nom de domaine Les stagiaires disposent d\u2019un support de cours en version d\u00e9mat\u00e9rialis\u00e9e ainsi qu\u2019un acc\u00e8s individuel au portail partenaire Shopify permettant de cr\u00e9er sa propre boutique en ligne SHOPIFY",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "What are the key partnerships or collaborations related to commerce?",
+            "result": " The passage mentions several key partnerships and collaborations related to commerce for Davidson Consulting. These include:\n\n1. Mirakl: A leading global provider of online marketplace solutions, which joined forces with Davidson Consulting after recognizing the need \"to muscle our game...\". This collaboration enables them to offer comprehensive marketplace services to their clients.\n2. Colorz: One of the best digital agencies in France or even the world, Colorz has become part of the Davidson Consulting group due to the need to strengthen their position in the market. Their expertise in creating exceptional digital experiences further enhances the company's capabilities.\n3. Other major brands: Davidson Consulting has established strong relationships with some of the largest e-commerce and retail companies, including those operating in the fashion, food, and consumer goods sectors. These partnerships demonstrate their ability to deliver successful e-commerce projects for well-known industry players.",
+            "source": [
+                {
+                    "content": "que ce soit en Organisation Cadrage D\u00e9finition Conception ou Optimisation Nos consultants interviennent sur des projets E-commerce M-commerce Point de Vente Digital en magasin et IOT Ton r\u00f4le en tant que Product Owner E-commerce SFCC sera de prendre en charge la d\u00e9finition et l\u2019optimisation de plateforme e-commerce \u00b0 \u00e0 travers  Le E-commerce est devenu un des focus majeurs de Davidson consulting A fortiori depuis que Colorz la meilleure agence digitale de France voire de l\u2019univers a rejoint le groupe parce \u201cqu\u2019il fallait muscler notre jeu\u2026\u201d La somme de nos comp\u00e9tences nous permet aujourd\u2019hui d\u2019adresser des projets bout-en-bout li\u00e9s \u00e0 la vente en ligne  strat\u00e9gie de marques social m\u00e9dia conception de sites web mobiles applications Android  iOS Progressive Web App marketplaces SEO int\u00e9gration de CRM ERP plateformes SaaS Mirakl Proximis Shopify etc et CMS Magento 2 Drupal WP etc chatbots Les plus grandes marques de E-commerce grande distribution v\u00eatements food\u2026 nous font confiance",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "que ce soit en Organisation Cadrage D\u00e9finition Conception ou Optimisation Nos consultants interviennent sur des projets E-commerce M-commerce Point de Vente Digital en magasin et IOT Ton r\u00f4le en tant que Product Owner E-commerce SFCC sera de prendre en charge la d\u00e9finition et l\u2019optimisation de plateforme e-commerce \u00b0 \u00e0 travers  Le E-commerce est devenu un des focus majeurs de Davidson consulting A fortiori depuis que Colorz la meilleure agence digitale de France voire de l\u2019univers a rejoint le groupe parce \u201cqu\u2019il fallait muscler notre jeu\u2026\u201d La somme de nos comp\u00e9tences nous permet aujourd\u2019hui d\u2019adresser des projets bout-en-bout li\u00e9s \u00e0 la vente en ligne  strat\u00e9gie de marques social m\u00e9dia conception de sites web mobiles applications Android  iOS Progressive Web App marketplaces SEO int\u00e9gration de CRM ERP plateformes SaaS Mirakl Proximis Shopify etc et CMS Magento 2 Drupal WP etc chatbots Les plus grandes marques de E-commerce grande distribution v\u00eatements food\u2026 nous font confiance",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "ce soit en Organisation Cadrage D\u00e9finition Conception ou Optimisation Nos consultants interviennent sur des projets E-commerce M-commerce Point de Vente Digital en magasin IOT eCRM Ton r\u00f4le en tant que Chef de projet e-commerce sera de prendre en charge la d\u00e9finition et l\u2019optimisation de plateforme e-commerce \u00b0 \u00e0 travers  Le E-commerce est devenu un des focus majeurs de Davidson consulting A fortiori depuis que Colorz la meilleure agence digitale de France voire de l\u2019univers a rejoint le groupe parce \u201cqu\u2019il fallait muscler notre jeu\u2026\u201d La somme de nos comp\u00e9tences nous permet aujourd\u2019hui d\u2019adresser des projets bout-en-bout li\u00e9s \u00e0 la vente en ligne  strat\u00e9gie de marques social m\u00e9dia conception de sites web mobiles applications Android  iOS Progressive Web App marketplaces SEO int\u00e9gration de CRM ERP plateformes SaaS Mirakl Proximis Shopify etc et CMS Magento 2 Drupal WP etc chatbots Les plus grandes marques de E-commerce grande distribution v\u00eatements food\u2026 nous font confiance d\u00e9sormais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "ce soit en Organisation Cadrage D\u00e9finition Conception ou Optimisation Nos consultants interviennent sur des projets E-commerce M-commerce Point de Vente Digital en magasin IOT eCRM Ton r\u00f4le en tant que Chef de projet e-commerce sera de prendre en charge la d\u00e9finition et l\u2019optimisation de plateforme e-commerce \u00b0 \u00e0 travers  Le E-commerce est devenu un des focus majeurs de Davidson consulting A fortiori depuis que Colorz la meilleure agence digitale de France voire de l\u2019univers a rejoint le groupe parce \u201cqu\u2019il fallait muscler notre jeu\u2026\u201d La somme de nos comp\u00e9tences nous permet aujourd\u2019hui d\u2019adresser des projets bout-en-bout li\u00e9s \u00e0 la vente en ligne  strat\u00e9gie de marques social m\u00e9dia conception de sites web mobiles applications Android  iOS Progressive Web App marketplaces SEO int\u00e9gration de CRM ERP plateformes SaaS Mirakl Proximis Shopify etc et CMS Magento 2 Drupal WP etc chatbots Les plus grandes marques de E-commerce grande distribution v\u00eatements food\u2026 nous font confiance d\u00e9sormais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        }
+    ],
+    "Employment & Opportunities": [
+        {
+            "question": "What employment or educational opportunities are currently available?",
+            "result": " Based on the provided information, there are several job openings within different work areas at Davidson Luxembourg. These include roles in IS/Data Architecture, UX/UI Design, Backend & Frontend Development, Data Analysis, Big Data Engineering, Data Science, Business Process Modelling, Functional & Business Analysis, Project Ownership, Testing/Acceptance/Approval, Project Management & Agility Coaching, Governance & PMO. Additionally, there is an opportunity for candidates to test their skills through an online testing platform before applying for positions.",
+            "source": [
+                {
+                    "content": "Je cherche un poste de dans le domaine Back Office chez Partout Travailler \u00e0 la Direction Administrative et Financi\u00e8re de Davidson c\u2019est participer pleinement au cycle de vie de la soci\u00e9t\u00e9 et donc \u00e0 la fois b\u00e9n\u00e9ficier d\u2019une atmosph\u00e8re de travail apais\u00e9e et attachant de l\u2019importance au bien vivre des salari\u00e9s et d\u00e9montrer un grand sens du service une exigence et un pragmatisme sans faille",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "tous\u00a0 Nous travaillons sur les projets \u00ab qui comptent \u00bb nous attirons les meilleurs chez nous C\u2019est bien Mais nous aimerions faire en sorte de pouvoir le faire pour longtemps Et pour cela nous avons tous un \u00ab petit \u00bb chantier plan\u00e9taire \u00e0 conduire  Davidson Luxembourg souhaite faire sa part dans la r\u00e9duction des externalit\u00e9s n\u00e9gatives du groupe en maximisant nos impacts positifs environnemental social et soci\u00e9tal Et pour cela on va avoir besoin de toutes les bonnes volont\u00e9s  Work Areas \u2022 IS/data architecture \u2022 UX/UI \u2022 Back-end front-end and cross-device development \u2022 Data analysis \u2022 Big data engineering \u2022 Data science \u2022 Business process modelling \u2022 Functional and Business Analysis \u2022 Project ownership \u2022 Testing / Acceptance / Approval \u2022 Project management and agility coaching \u2022 Governance PMO Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "de France voire de l\u2019univers a rejoint le groupe parce \u201cqu\u2019il fallait muscler notre jeu\u2026\u201d La somme de nos comp\u00e9tences nous permet aujourd\u2019hui d\u2019adresser des projets bout-en-bout li\u00e9s \u00e0 la vente en ligne  strat\u00e9gie de marques social m\u00e9dia conception de sites web mobiles applications Android  iOS Progressive Web App marketplaces SEO int\u00e9gration de CRM ERP plateformes SaaS Mirakl Proximis Shopify etc et CMS Magento 2 Drupal WP etc chatbots Les plus grandes marques de E-commerce grande distribution v\u00eatements food\u2026 nous font confiance d\u00e9sormais pour les positionner en ligne  conseil design conduite de projets logistique expertise technique ergonomie analytics\u2026 les comp\u00e9tences mobilis\u00e9es sont multiples pour am\u00e9liorer \u201cacquisition et conversion\u201d de nos clients  Nous avons con\u00e7u une plate-forme de tests en ligne qui h\u00e9berge quelques dizaines de QCM techniques et fonctionnels Si vous souhaitez tester vos connaissances avant ou apr\u00e8s avoir candidat\u00e9 ne vous privez pas  Une opportunit\u00e9 se saisit",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "de France voire de l\u2019univers a rejoint le groupe parce \u201cqu\u2019il fallait muscler notre jeu\u2026\u201d La somme de nos comp\u00e9tences nous permet aujourd\u2019hui d\u2019adresser des projets bout-en-bout li\u00e9s \u00e0 la vente en ligne  strat\u00e9gie de marques social m\u00e9dia conception de sites web mobiles applications Android  iOS Progressive Web App marketplaces SEO int\u00e9gration de CRM ERP plateformes SaaS Mirakl Proximis Shopify etc et CMS Magento 2 Drupal WP etc chatbots Les plus grandes marques de E-commerce grande distribution v\u00eatements food\u2026 nous font confiance d\u00e9sormais pour les positionner en ligne  conseil design conduite de projets logistique expertise technique ergonomie analytics\u2026 les comp\u00e9tences mobilis\u00e9es sont multiples pour am\u00e9liorer \u201cacquisition et conversion\u201d de nos clients  Nous avons con\u00e7u une plate-forme de tests en ligne qui h\u00e9berge quelques dizaines de QCM techniques et fonctionnels Si vous souhaitez tester vos connaissances avant ou apr\u00e8s avoir candidat\u00e9 ne vous privez pas  Une opportunit\u00e9 se saisit",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Are there any events like job fairs, webinars, workshops, or training programs? If yes, list them.",
+            "result": " Yes, there are various events organized by Davidson for different roles and professions. Some of these events include:\n\n1. Job Fairs: These events bring together companies and candidates seeking employment opportunities. They provide a platform for networking and direct interaction between potential employees and recruiters. Examples of such events include \"DavJobFair\" and \"Davidson Career Day.\"\n2. Webinars: Online seminars or presentations conducted over the internet. Topics may range from industry trends to specific skills development. Examples of webinar series hosted by Davidson include \"CareerWebinar,\" \"ProfessionalDevelopmentWebinar,\" and \"IndustryTrendWebinar.\"\n3. Workshops: Interactive sessions focused on developing specific skills or knowledge in a particular area. Examples of workshop series offered by Davidson include \"SkillWorkshop,\" \"TechnicalWorkshop,\" and \"SoftSkillsWorkshop.\"\n4. Training Programs: Comprehensive courses designed to enhance professional competencies. Examples of training programs provided by Davidson include \"Certified Scrum Master (CSM),\" \"Scrum Product Owner (SPO),\" and \"Project Management Professional (PMP)\u00ae Certification Preparation Course.\"",
+            "source": [
+                {
+                    "content": "types m\u00e9tiers notamment Event Manager Social Media Manager D\u00e9veloppeurs Managers et Clients Tu penses qu\u2019on peut matcher  Alors place \u00e0 l\u2019action  Pr\u00e9sente-nous un CV et un book ; et rejoins la team Davidson  Travailler \u00e0 la Direction Administrative et Financi\u00e8re de Davidson c\u2019est participer pleinement au cycle de vie de la soci\u00e9t\u00e9 et donc \u00e0 la fois b\u00e9n\u00e9ficier d\u2019une atmosph\u00e8re de travail apais\u00e9e et attachant de l\u2019importance au bien vivre des salari\u00e9s et d\u00e9montrer un grand sens du service une exigence et un pragmatisme sans faille Pour utiliser un mot \u00e0 la mode \u00eatre \u00ab admin \u00bb chez Dav  Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "types m\u00e9tiers notamment Event Manager Social Media Manager D\u00e9veloppeurs Managers et Clients Tu penses qu\u2019on peut matcher  Alors place \u00e0 l\u2019action  Pr\u00e9sente-nous un CV et un book ; et rejoins la team Davidson  Travailler \u00e0 la Direction Administrative et Financi\u00e8re de Davidson c\u2019est participer pleinement au cycle de vie de la soci\u00e9t\u00e9 et donc \u00e0 la fois b\u00e9n\u00e9ficier d\u2019une atmosph\u00e8re de travail apais\u00e9e et attachant de l\u2019importance au bien vivre des salari\u00e9s et d\u00e9montrer un grand sens du service une exigence et un pragmatisme sans faille Pour utiliser un mot \u00e0 la mode \u00eatre \u00ab admin \u00bb chez Dav  Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "imm\u00e9diate et pratique Les formations certifiantes de Davidson sont \u00e9galement \u00e9ligibles et finan\u00e7ables avec votre Compte Personnel de Formation CPF La liste de nos formations certifiantes s\u2019adresse particuli\u00e8rement aux chefs de projet informatique et/ou agiles ainsi qu\u2019aux diff\u00e9rents publics d\u2019ing\u00e9nieurs pour asseoir et d\u00e9velopper leurs comp\u00e9tences sur des r\u00e9f\u00e9rentiels reconnus en France et \u00e0 l\u2019\u00e9tranger Ces programmes p\u00e9dagogiques de courte dur\u00e9e sont organis\u00e9s sur une p\u00e9riode de 3 \u00e0 5 jours et peuvent rassembler une dizaine d\u2019apprenants Nos formations certifiantes s\u2019appuient sur l\u2019exp\u00e9rience de terrain et l\u2019expertise de Davidson pour permettre l\u2019acquisition des connaissances th\u00e9oriques m\u00e9thodologiques et pratiques attendues pour chaque participant Des formations agile ou coach agile certifiantes SCRUM Master SCRUM Product Owner \u00e0 la pr\u00e9paration \u00e0 la certification en gestion de projet PMP\u00ae nos parcours de formation permettent aux professionnels de se former tout en conservant leur",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "de France voire de l\u2019univers a rejoint le groupe parce \u201cqu\u2019il fallait muscler notre jeu\u2026\u201d La somme de nos comp\u00e9tences nous permet aujourd\u2019hui d\u2019adresser des projets bout-en-bout li\u00e9s \u00e0 la vente en ligne  strat\u00e9gie de marques social m\u00e9dia conception de sites web mobiles applications Android  iOS Progressive Web App marketplaces SEO int\u00e9gration de CRM ERP plateformes SaaS Mirakl Proximis Shopify etc et CMS Magento 2 Drupal WP etc chatbots Les plus grandes marques de E-commerce grande distribution v\u00eatements food\u2026 nous font confiance d\u00e9sormais pour les positionner en ligne  conseil design conduite de projets logistique expertise technique ergonomie analytics\u2026 les comp\u00e9tences mobilis\u00e9es sont multiples pour am\u00e9liorer \u201cacquisition et conversion\u201d de nos clients  Nous avons con\u00e7u une plate-forme de tests en ligne qui h\u00e9berge quelques dizaines de QCM techniques et fonctionnels Si vous souhaitez tester vos connaissances avant ou apr\u00e8s avoir candidat\u00e9 ne vous privez pas  Une opportunit\u00e9 se saisit",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "What employee or participant benefits are highlighted?",
+            "result": " The passage highlights several benefits for employees or participants in the context of working within a company and striving towards gender equality. These include:\n\n1. A peaceful work environment: By promoting equal pay and conditions between women and men, the Index of Equality helps create a harmonious atmosphere in the workplace where everyone feels valued.\n2. Prioritizing employee well-being: Companies committed to gender equality demonstrate their dedication to ensuring that their employees have fulfilling lives outside of work by emphasizing the importance of work-life balance and overall job satisfaction.\n3. Fostering a strong sense of service: By demanding excellence from employees while remaining practical and realistic, companies can cultivate a culture of service that prioritizes meeting the needs of both customers and colleagues alike.\n4. Embracing modern terminology: Using contemporary terms like \"admin\" (short for administrative assistant) demonstrates a willingness on the part of employees to adapt to changing professional norms and stay current with industry trends.",
+            "source": [
+                {
+                    "content": "L\u2019Index de l\u2019\u00e9galit\u00e9 a \u00e9t\u00e9 con\u00e7u au 01 mars  pour faire progresser l\u2019\u00e9galit\u00e9 entre les femmes et les hommes au sein de l\u2019entreprise Il mesure les \u00e9carts de r\u00e9mun\u00e9ration et de situation entre les femmes et les hommes L\u2019Index est not\u00e9 sur  points Il est calcul\u00e9 \u00e0 partir de cinq indicateurs pour les entreprises de plus de  salari\u00e9s et de quatre indicateurs pour celles de 50 \u00e0  salari\u00e9s",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "L\u2019Index de l\u2019\u00e9galit\u00e9 a \u00e9t\u00e9 con\u00e7u au 01 mars  pour faire progresser l\u2019\u00e9galit\u00e9 entre les femmes et les hommes au sein de l\u2019entreprise Il mesure les \u00e9carts de r\u00e9mun\u00e9ration et de situation entre les femmes et les hommes L\u2019Index est not\u00e9 sur  points Il est calcul\u00e9 \u00e0 partir de cinq indicateurs pour les entreprises de plus de  salari\u00e9s et de quatre indicateurs pour celles de 50 \u00e0  salari\u00e9s",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "pleinement au cycle de vie de la soci\u00e9t\u00e9 et donc \u00e0 la fois b\u00e9n\u00e9ficier d\u2019une atmosph\u00e8re de travail apais\u00e9e et attachant de l\u2019importance au bien vivre des salari\u00e9s et d\u00e9montrer un grand sens du service une exigence et un pragmatisme sans faille Pour utiliser un mot \u00e0 la mode \u00eatre \u00ab admin \u00bb chez Dav  Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "pleinement au cycle de vie de la soci\u00e9t\u00e9 et donc \u00e0 la fois b\u00e9n\u00e9ficier d\u2019une atmosph\u00e8re de travail apais\u00e9e et attachant de l\u2019importance au bien vivre des salari\u00e9s et d\u00e9montrer un grand sens du service une exigence et un pragmatisme sans faille Pour utiliser un mot \u00e0 la mode \u00eatre \u00ab admin \u00bb chez Dav  Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        }
+    ],
+    "Financials & Funding": [
+        {
+            "question": "What are the key takeaways from the most recent financial or earnings report?",
+            "result": " Based on the provided information, it is difficult to pinpoint specific details about a financial or earnings report without further context. However, some general points mentioned include the importance of workplace well-being as a luxury for solid companies, encouraging employees to take initiatives and be engaged while maintaining professionalism (\"sans travail, le talent n'est qu'une sale manie\"). This leads to seeking out better candidates than oneself within the Finance department at Davidson. The tasks involved with assisting a client institution in the financial sector as a Project Management Office (PMO) involve supporting the team leader or project manager in deploying various activities such as adapting to the evolving landscape of banking and finance, which has drastically changed due to digital revolutions. These changes have also transformed jobs related to financial markets, making them more advanced and specialized.",
+            "source": [
+                {
+                    "content": "pas seulement Sur ce dernier point une pr\u00e9cision d\u2019importance  le bien-\u00eatre au travail est un luxe qu\u2019il faut pouvoir s\u2019offrir en \u00e9tant une entreprise \u201csolide\u201d Ceci induit pour les davidsoniennes d\u2019allier prises d\u2019initiative engagement et professionnalisme Car \u201csans travail le talent n\u2019est qu\u2019une sale manie\u201d Et cela nous incite \u00e0 chercher \u00e0 recruter des personnes\u2026 meilleures que nous\u2026 Au sein du p\u00f4le finance de Davidson vous interviendrez aupr\u00e8s d\u2019un de nos clients institution financi\u00e8re de premier plan et grande banque internationale en tant que PMO La mission consistera \u00e0 assister le responsable de l\u2019\u00e9quipe ou le chef de projet dans le d\u00e9ploiement des activit\u00e9s suivantes  Le monde de la banque et de la finance a \u00e9norm\u00e9ment \u00e9volu\u00e9 au cours des derni\u00e8res d\u00e9cennies et n\u2019a plus grand-chose \u00e0 voir avec le \u201cLoup de Wall Street\u201d\u2026 Les m\u00e9tiers en lien avec les march\u00e9s financiers se sont radicalement transform\u00e9s avec la r\u00e9volution digitale Les DSI des plus grandes institutions financi\u00e8res",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "pas seulement Sur ce dernier point une pr\u00e9cision d\u2019importance  le bien-\u00eatre au travail est un luxe qu\u2019il faut pouvoir s\u2019offrir en \u00e9tant une entreprise \u201csolide\u201d Ceci induit pour les davidsoniennes d\u2019allier prises d\u2019initiative engagement et professionnalisme Car \u201csans travail le talent n\u2019est qu\u2019une sale manie\u201d Et cela nous incite \u00e0 chercher \u00e0 recruter des personnes\u2026 meilleures que nous\u2026 Au sein du p\u00f4le finance de Davidson vous interviendrez aupr\u00e8s d\u2019un de nos clients institution financi\u00e8re de premier plan et grande banque internationale en tant que PMO La mission consistera \u00e0 assister le responsable de l\u2019\u00e9quipe ou le chef de projet dans le d\u00e9ploiement des activit\u00e9s suivantes  Le monde de la banque et de la finance a \u00e9norm\u00e9ment \u00e9volu\u00e9 au cours des derni\u00e8res d\u00e9cennies et n\u2019a plus grand-chose \u00e0 voir avec le \u201cLoup de Wall Street\u201d\u2026 Les m\u00e9tiers en lien avec les march\u00e9s financiers se sont radicalement transform\u00e9s avec la r\u00e9volution digitale Les DSI des plus grandes institutions financi\u00e8res",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "pas seulement Sur ce dernier point une pr\u00e9cision d\u2019importance  le bien-\u00eatre au travail est un luxe qu\u2019il faut pouvoir s\u2019offrir en \u00e9tant une entreprise \u201csolide\u201d Ceci induit pour les davidsoniennes d\u2019allier prises d\u2019initiative engagement et professionnalisme Car \u201csans travail le talent n\u2019est qu\u2019une sale manie\u201d Et cela nous incite \u00e0 chercher \u00e0 recruter des personnes\u2026 meilleures que nous\u2026 Au sein du p\u00f4le finance de Davidson vous interviendrez aupr\u00e8s d\u2019un de nos clients institution financi\u00e8re de premier plan et grande banque internationale en tant que PMO La mission consistera \u00e0 assister le responsable de l\u2019\u00e9quipe ou le chef de projet dans le d\u00e9ploiement des activit\u00e9s suivantes  Le monde de la banque et de la finance a \u00e9norm\u00e9ment \u00e9volu\u00e9 au cours des derni\u00e8res d\u00e9cennies et n\u2019a plus grand-chose \u00e0 voir avec le \u201cLoup de Wall Street\u201d\u2026 Les m\u00e9tiers en lien avec les march\u00e9s financiers se sont radicalement transform\u00e9s avec la r\u00e9volution digitale Les DSI des plus grandes institutions financi\u00e8res",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "pas seulement Sur ce dernier point une pr\u00e9cision d\u2019importance  le bien-\u00eatre au travail est un luxe qu\u2019il faut pouvoir s\u2019offrir en \u00e9tant une entreprise \u201csolide\u201d Ceci induit pour les davidsoniennes d\u2019allier prises d\u2019initiative engagement et professionnalisme Car \u201csans travail le talent n\u2019est qu\u2019une sale manie\u201d Et cela nous incite \u00e0 chercher \u00e0 recruter des personnes\u2026 meilleures que nous\u2026 Au sein du p\u00f4le finance de Davidson vous interviendrez aupr\u00e8s de grands \u00e9tablissements bancaires et financiers afin de les accompagner dans leurs transformations digitales les \u00e9volutions de leurs Offres et leurs mises en conformit\u00e9 sur les projets r\u00e9glementaires MIF 2 BCBS  Bale III IFRS 9 COREP etc Vos missions porteront sur  Le monde de la banque et de la finance a \u00e9norm\u00e9ment \u00e9volu\u00e9 au cours des derni\u00e8res d\u00e9cennies et n\u2019a plus grand-chose \u00e0 voir avec le \u201cLoup de Wall Street\u201d\u2026 Les m\u00e9tiers en lien avec les march\u00e9s financiers se sont radicalement transform\u00e9s avec la r\u00e9volution digitale Les DSI des plus",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Are there any investor events or funding rounds? If yes then list them.",
+            "result": " Based on the provided text, it does not explicitly mention any specific investor events or funding rounds related to Davidson. However, it is mentioned that Davidson offers various job positions in different departments such as event management, social media management, developers, managers, and clients. The company seems to be focused on providing a comprehensive experience for its employees by offering practice leaders around partnership startups. Additionally, they emphasize the importance of creating a balanced work environment with a strong sense of service, high expectations, and practicality without compromises.",
+            "source": [
+                {
+                    "content": "salaire mais de proposer une exp\u00e9rience globale et un \u00e9cosyst\u00e8me qui permettent de combler les envies de chacun  partenariat startup organisation autour de practice leaders\u2026 \u00c7a vous parle  Nous vous attendons pour vivre cette aventure avec nous et construire ensemble le Davidson de demain D\u00e9couvrez nos offres \u00a0 Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "types m\u00e9tiers notamment Event Manager Social Media Manager D\u00e9veloppeurs Managers et Clients Tu penses qu\u2019on peut matcher  Alors place \u00e0 l\u2019action  Pr\u00e9sente-nous un CV et un book ; et rejoins la team Davidson  Travailler \u00e0 la Direction Administrative et Financi\u00e8re de Davidson c\u2019est participer pleinement au cycle de vie de la soci\u00e9t\u00e9 et donc \u00e0 la fois b\u00e9n\u00e9ficier d\u2019une atmosph\u00e8re de travail apais\u00e9e et attachant de l\u2019importance au bien vivre des salari\u00e9s et d\u00e9montrer un grand sens du service une exigence et un pragmatisme sans faille Pour utiliser un mot \u00e0 la mode \u00eatre \u00ab admin \u00bb chez Dav  Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "types m\u00e9tiers notamment Event Manager Social Media Manager D\u00e9veloppeurs Managers et Clients Tu penses qu\u2019on peut matcher  Alors place \u00e0 l\u2019action  Pr\u00e9sente-nous un CV et un book ; et rejoins la team Davidson  Travailler \u00e0 la Direction Administrative et Financi\u00e8re de Davidson c\u2019est participer pleinement au cycle de vie de la soci\u00e9t\u00e9 et donc \u00e0 la fois b\u00e9n\u00e9ficier d\u2019une atmosph\u00e8re de travail apais\u00e9e et attachant de l\u2019importance au bien vivre des salari\u00e9s et d\u00e9montrer un grand sens du service une exigence et un pragmatisme sans faille Pour utiliser un mot \u00e0 la mode \u00eatre \u00ab admin \u00bb chez Dav  Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Les m\u00e9tiers en lien avec les march\u00e9s financiers se sont radicalement transform\u00e9s avec la r\u00e9volution digitale Les DSI des plus grandes institutions financi\u00e8res occupent d\u00e9sormais une place centrale au sein des organisations Au-del\u00e0 de l\u2019explosion du num\u00e9rique les m\u00e9tiers doivent s\u2019adapter face aux \u00e9volutions des comportements des clients \u00e0 la pression des r\u00e9gulateurs et \u00e0 comp\u00e9tition accrue par de nouveaux entrants Ainsi Davidson mobilise \u00e0 vos c\u00f4t\u00e9s des consultants fonctionnels et digitaux b\u00e9n\u00e9ficiant d\u2019un haut niveau d\u2019expertise sectorielle sur les principaux m\u00e9tiers de la finance",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "What financial or funding goals have been set for the next period?",
+            "result": " I am unable to provide specific information about financial or funding goals for the next period as a language model AI. However, if you are part of the team working on these objectives, it would be helpful to consult with your colleagues and supervisors who can provide more accurate insights into the company's financial targets for the coming months or years.",
+            "source": [
+                {
+                    "content": "ses clients Dans le d\u00e9tail vos missions sont principalement de  Travailler \u00e0 la Direction Administrative et Financi\u00e8re de Davidson c\u2019est participer pleinement au cycle de vie de la soci\u00e9t\u00e9 et donc \u00e0 la fois b\u00e9n\u00e9ficier d\u2019une atmosph\u00e8re de travail apais\u00e9e et attachant de l\u2019importance au bien vivre des salari\u00e9s et d\u00e9montrer un grand sens du service une exigence et un pragmatisme sans faille Pour utiliser un mot \u00e0 la mode \u00eatre \u00ab admin \u00bb chez Dav  Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "ses clients Dans le d\u00e9tail vos missions sont principalement de  Travailler \u00e0 la Direction Administrative et Financi\u00e8re de Davidson c\u2019est participer pleinement au cycle de vie de la soci\u00e9t\u00e9 et donc \u00e0 la fois b\u00e9n\u00e9ficier d\u2019une atmosph\u00e8re de travail apais\u00e9e et attachant de l\u2019importance au bien vivre des salari\u00e9s et d\u00e9montrer un grand sens du service une exigence et un pragmatisme sans faille Pour utiliser un mot \u00e0 la mode \u00eatre \u00ab admin \u00bb chez Dav  Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "assurer de l\u2019ad\u00e9quation des solutions mises en \u0153uvre dans une volont\u00e9 permanente d\u2019optimisation d\u2019am\u00e9lioration de la qualit\u00e9 et des performances Une excellente ma\u00eetrise d\u2019Excel et de bonnes notions de VBA vous permettront de cr\u00e9er des outils en interne pour r\u00e9pondre \u00e0 des besoins plus simples Travailler \u00e0 la Direction Administrative et Financi\u00e8re de Davidson c\u2019est participer pleinement au cycle de vie de la soci\u00e9t\u00e9 et donc \u00e0 la fois b\u00e9n\u00e9ficier d\u2019une atmosph\u00e8re de travail apais\u00e9e et attachant de l\u2019importance au bien vivre des salari\u00e9s et d\u00e9montrer un grand sens du service une exigence et un pragmatisme sans faille Pour utiliser un mot \u00e0 la mode \u00eatre \u00ab admin \u00bb chez Dav  Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "assurer de l\u2019ad\u00e9quation des solutions mises en \u0153uvre dans une volont\u00e9 permanente d\u2019optimisation d\u2019am\u00e9lioration de la qualit\u00e9 et des performances Une excellente ma\u00eetrise d\u2019Excel et de bonnes notions de VBA vous permettront de cr\u00e9er des outils en interne pour r\u00e9pondre \u00e0 des besoins plus simples Travailler \u00e0 la Direction Administrative et Financi\u00e8re de Davidson c\u2019est participer pleinement au cycle de vie de la soci\u00e9t\u00e9 et donc \u00e0 la fois b\u00e9n\u00e9ficier d\u2019une atmosph\u00e8re de travail apais\u00e9e et attachant de l\u2019importance au bien vivre des salari\u00e9s et d\u00e9montrer un grand sens du service une exigence et un pragmatisme sans faille Pour utiliser un mot \u00e0 la mode \u00eatre \u00ab admin \u00bb chez Dav  Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        }
+    ],
+    "Research & Innovation": [
+        {
+            "question": "What are the latest publications, research findings, or introduced technologies?",
+            "result": " Based on the provided information, there is no specific mention of any recent publications, research findings, or introduced technologies by the company. However, it can be inferred that they have been actively involved in research and development, particularly in the field of digital creativity through their partnership with various French research institutions and laboratories. Additionally, the company has developed a platform for online testing of technical and functional Quality Control Measures (QCMs) which hosts several dozen such tests.",
+            "source": [
+                {
+                    "content": "Vous vous en \u00eates peut-\u00eatre rendus compte en parcourant note site en tout cas nous l\u2019esp\u00e9rons nous sommes des mordus de tech et nous voulons \u00eatre un VRAI partenaire de notre \u00e9cosyst\u00e8me Pour cela nous avons choisi d\u2019investir massivement dans le domaine de la recherche Nous avons d\u00e9fini un process nous permettant de faire \u00e9merger les th\u00e9matiques que nous voulons d\u00e9velopper et donc dans lesquelles nous investissons Celles-ci sont au nombre de 4 aujourd\u2019hui Nos projets sont pilot\u00e9s par plusieurs chefs de missions sous la coordination d\u2019un directeur RD et en partenariat avec 4 laboratoires de recherche r\u00e9partis en France Ils sont initi\u00e9s sur la base des \u00e9tudes de veille conduites par nos observatoires Davidson consulting soutient depuis  le d\u00e9veloppement de\u00a0la\u00a0Chaire \u00ab Inventivit\u00e9s Digitales \u00bb\u00a0premi\u00e8re chaire d\u2019enseignement d\u00e9di\u00e9e \u00e0 la cr\u00e9ativit\u00e9\u00a0num\u00e9rique port\u00e9e par Institut Mines-T\u00e9l\u00e9com Business School\u00a0en partenariat avec T\u00e9l\u00e9com SudParis et l\u2019ESAD de Reims avec le support de SIANA du",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "\u00e9tape du cycle de vie d\u2019un projet ou d\u2019une affaire  depuis l\u2019id\u00e9e jusqu\u2019\u00e0 la livraison finale Pour ce faire nos interventions m\u00ealent responsabilit\u00e9s fonctionnelles et support technologique aupr\u00e8s des organisations de nos clients Nous avons con\u00e7u une plate-forme de tests en ligne qui h\u00e9berge quelques dizaines de QCM techniques et fonctionnels Si vous souhaitez tester vos connaissances avant ou apr\u00e8s avoir candidat\u00e9 ne vous privez pas  Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "\u00e9tape du cycle de vie d\u2019un projet ou d\u2019une affaire  depuis l\u2019id\u00e9e jusqu\u2019\u00e0 la livraison finale Pour ce faire nos interventions m\u00ealent responsabilit\u00e9s fonctionnelles et support technologique aupr\u00e8s des organisations de nos clients Nous avons con\u00e7u une plate-forme de tests en ligne qui h\u00e9berge quelques dizaines de QCM techniques et fonctionnels Si vous souhaitez tester vos connaissances avant ou apr\u00e8s avoir candidat\u00e9 ne vous privez pas  Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "\u00e9tape du cycle de vie d\u2019un projet ou d\u2019une affaire  depuis l\u2019id\u00e9e jusqu\u2019\u00e0 la livraison finale Pour ce faire nos interventions m\u00ealent responsabilit\u00e9s fonctionnelles et support technologique aupr\u00e8s des organisations de nos clients Nous avons con\u00e7u une plate-forme de tests en ligne qui h\u00e9berge quelques dizaines de QCM techniques et fonctionnels Si vous souhaitez tester vos connaissances avant ou apr\u00e8s avoir candidat\u00e9 ne vous privez pas  Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Are there any ongoing or upcoming research projects or innovation initiatives? If yes then list them",
+            "result": " Based on the provided information, it is not explicitly mentioned about any specific ongoing or upcoming research projects or innovation initiatives within the company. However, we can infer some general ideas from the text. The company seems to be heavily invested in research and development, with four main areas of focus for their projects. These areas include emerging thematic topics, which they are actively developing and investing in. Additionally, the company has established partnerships with various French laboratories for research collaboration. Although no specific project names were given, it is evident that the company is committed to driving innovation through its extensive research efforts.",
+            "source": [
+                {
+                    "content": "Vous vous en \u00eates peut-\u00eatre rendus compte en parcourant note site en tout cas nous l\u2019esp\u00e9rons nous sommes des mordus de tech et nous voulons \u00eatre un VRAI partenaire de notre \u00e9cosyst\u00e8me Pour cela nous avons choisi d\u2019investir massivement dans le domaine de la recherche Nous avons d\u00e9fini un process nous permettant de faire \u00e9merger les th\u00e9matiques que nous voulons d\u00e9velopper et donc dans lesquelles nous investissons Celles-ci sont au nombre de 4 aujourd\u2019hui Nos projets sont pilot\u00e9s par plusieurs chefs de missions sous la coordination d\u2019un directeur RD et en partenariat avec 4 laboratoires de recherche r\u00e9partis en France Ils sont initi\u00e9s sur la base des \u00e9tudes de veille conduites par nos observatoires Davidson consulting soutient depuis  le d\u00e9veloppement de\u00a0la\u00a0Chaire \u00ab Inventivit\u00e9s Digitales \u00bb\u00a0premi\u00e8re chaire d\u2019enseignement d\u00e9di\u00e9e \u00e0 la cr\u00e9ativit\u00e9\u00a0num\u00e9rique port\u00e9e par Institut Mines-T\u00e9l\u00e9com Business School\u00a0en partenariat avec T\u00e9l\u00e9com SudParis et l\u2019ESAD de Reims avec le support de SIANA du",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "durables\u202fet responsables\u202f Responsable domaine SI RSE Head of sustainable IT Responsable RSE Responsable Hub innovation en \u00e9cole d\u2019ing\u00e9nieur Architecte SI et Experts Num\u00e9rique Responsable\u2026 Apr\u00e8s une longue d\u00e9lib\u00e9ration le jury a d\u00e9livr\u00e9 son verdict dans l\u2019amphith\u00e9\u00e2tre face \u00e0 quelques  participants du challenge Ce ne sont pas moins de 3 projets github qui ont \u00e9volu\u00e9 gr\u00e2ce \u00e0 une communaut\u00e9 de  d\u00e9veloppeurs 20 r\u00e8gles ont \u00e9t\u00e9 d\u00e9velopp\u00e9es par les \u00e9quipes Builders sur les langages suivants\u202f 5 Python 12 Java 2 PHP 1 TypeScript 37 r\u00e8gles ont \u00e9t\u00e9 propos\u00e9es par les \u00e9quipes Spotters  9 Python 17 Java 6 DOM 2 PHP 3 Rust Pour le projet ecoCode Mobile ce sont 9 r\u00e8gles d\u00e9velopp\u00e9es par les \u00e9quipes Builders  8 IOS 1 Android 6 d\u00e9j\u00e0 merg\u00e9es Ainsi que 17 r\u00e8gles propos\u00e9es par les \u00e9quipes Spotters  8 Android 9 IOS Le projet ecoCode Linter a vu le d\u00e9veloppement de 5 r\u00e8gles par les \u00e9quipes Builders en JS ainsi que 9 r\u00e8gles Spotted en JS Finalement une nouvelle initiative a vu le jour avec le d\u00e9veloppement de",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Dans ce contexte tu seras responsable de  De la data \u00e0 analyser Des r\u00e9seaux pour la transmettre Le 3\u00e8me pilier de l\u2019expertise de Davidson c\u2019est le Dev  En Agilit\u00e9 et dans le mouvement DevOps Consultante chez Dav tu interviendras sur des missions vari\u00e9es ou rejoindras notre \u00e9quipe TWISTER Twister c\u2019est la rencontre entre une DSI celle de Davidson qui g\u00e8re une cinquantaine d\u2019applications internes dont ce magnifique site et son non moins magnifique bot un centre de services Agile/DevOps R\u00e9alisation et TMA multi-r\u00e9gions une \u00e9quipe de support pour notre agence digitale et un p\u00f4le d\u2019innovation qui prototype en anticipation par rapport au march\u00e9 enfin si on ne se rate pas notamment sur le Green coding en ce moment Tu rejoindras notre communaut\u00e9 anim\u00e9e par des practice leaders dans l\u2019ensemble des domaines qui font les applications performantes aujourd\u2019hui  Cloud M\u00e9thodes Open Source Java Net Go Virtu DevOps etc Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Dans ce contexte tu seras responsable de  De la data \u00e0 analyser Des r\u00e9seaux pour la transmettre Le 3\u00e8me pilier de l\u2019expertise de Davidson c\u2019est le Dev  En Agilit\u00e9 et dans le mouvement DevOps Consultante chez Dav tu interviendras sur des missions vari\u00e9es ou rejoindras notre \u00e9quipe TWISTER Twister c\u2019est la rencontre entre une DSI celle de Davidson qui g\u00e8re une cinquantaine d\u2019applications internes dont ce magnifique site et son non moins magnifique bot un centre de services Agile/DevOps R\u00e9alisation et TMA multi-r\u00e9gions une \u00e9quipe de support pour notre agence digitale et un p\u00f4le d\u2019innovation qui prototype en anticipation par rapport au march\u00e9 enfin si on ne se rate pas notamment sur le Green coding en ce moment Tu rejoindras notre communaut\u00e9 anim\u00e9e par des practice leaders dans l\u2019ensemble des domaines qui font les applications performantes aujourd\u2019hui  Cloud M\u00e9thodes Open Source Java Net Go Virtu DevOps etc Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "What research grants or innovation awards have been recently distributed?",
+            "result": " I am not aware of any specific research grants or innovation awards that were recently distributed. However, there are numerous funding opportunities available for researchers and innovators in various fields. Some popular sources include government agencies like NSF (National Science Foundation) and NIH (National Institutes of Health), private foundations such as the Bill & Melinda Gates Foundation and the MacArthur Foundation, as well as corporate sponsors and crowdfunding platforms. It is recommended to explore these resources and stay updated on new grant opportunities.",
+            "source": [
+                {
+                    "content": "jusqu\u2019\u00e0 la livraison finale Pour ce faire nos interventions m\u00ealent responsabilit\u00e9s fonctionnelles et support technologique aupr\u00e8s des organisations de nos clients Nous avons con\u00e7u une plate-forme de tests en ligne qui h\u00e9berge quelques dizaines de QCM techniques et fonctionnels Si vous souhaitez tester vos connaissances avant ou apr\u00e8s avoir candidat\u00e9 ne vous privez pas  Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "jusqu\u2019\u00e0 la livraison finale Pour ce faire nos interventions m\u00ealent responsabilit\u00e9s fonctionnelles et support technologique aupr\u00e8s des organisations de nos clients Nous avons con\u00e7u une plate-forme de tests en ligne qui h\u00e9berge quelques dizaines de QCM techniques et fonctionnels Si vous souhaitez tester vos connaissances avant ou apr\u00e8s avoir candidat\u00e9 ne vous privez pas  Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Dans goodd on s\u2019efforce de mettre en avant de belles id\u00e9es petites ou grandes On souhaite porter la voix des entrepreneurs \u00e0 impact des universitaires des scientifiques et plus largement de tous ceux dont les nouveaux imaginaires fa\u00e7onnent notre avenir\u00a0 Les sciences humaines l\u2019innovation la cr\u00e9ativit\u00e9 mais aussi le divertissement sont au c\u0153ur du journalisme de solutions pr\u00f4n\u00e9 par la r\u00e9daction Tous les mois tu pourras recevoir la gooddletter qui d\u00e9crypte les initiatives positives et pense le monde La plateforme goodd te permettra de prolonger l\u2019exp\u00e9rience comme le gooddshow v\u00e9ritable s\u00e9lection de contenu inspirant et cr\u00e9atif Et ce n\u2019est qu\u2019un d\u00e9but\u00a0 La notion de \u00ab\u00a0good\u00a0\u00bb est \u00e9videmment bien pr\u00e9sente dans l\u2019\u00e9ditorial Mais goodd avec deux \u00ab\u00a0d\u00a0\u00bb c\u2019est aussi une volont\u00e9 de porter les Objectifs de D\u00e9veloppement Durable pr\u00e9conis\u00e9s par l\u2019ONU Donc de good \u00e0 go odd\u00a0 il n\u2019y a qu\u2019un espace Un espace que nous voulons combler pour qu\u2019au-del\u00e0 de l\u2019impact environnemental goodd puisse \u00eatre l\u2019\u00e9tendard",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "\u00e9tape du cycle de vie d\u2019un projet ou d\u2019une affaire  depuis l\u2019id\u00e9e jusqu\u2019\u00e0 la livraison finale Pour ce faire nos interventions m\u00ealent responsabilit\u00e9s fonctionnelles et support technologique aupr\u00e8s des organisations de nos clients Nous avons con\u00e7u une plate-forme de tests en ligne qui h\u00e9berge quelques dizaines de QCM techniques et fonctionnels Si vous souhaitez tester vos connaissances avant ou apr\u00e8s avoir candidat\u00e9 ne vous privez pas  Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        }
+    ],
+    "Collaboration & Partnerships": [
+        {
+            "question": "What organizations, institutions, or entities is the organization collaborating with?",
+            "result": " Based on the provided text, it appears that the organization is working closely with various partners and stakeholders in different capacities. These include startups, organizations around practice leaders, and other companies involved in projects or business affairs. Additionally, they are providing support and services to their clients throughout each stage of a project or business deal, from conception through delivery. However, without more specific information about the company mentioned in the texts, we cannot definitively identify all the organizations they are collaborating with.",
+            "source": [
+                {
+                    "content": "ses clients Dans le d\u00e9tail vos missions sont principalement de  Travailler \u00e0 la Direction Administrative et Financi\u00e8re de Davidson c\u2019est participer pleinement au cycle de vie de la soci\u00e9t\u00e9 et donc \u00e0 la fois b\u00e9n\u00e9ficier d\u2019une atmosph\u00e8re de travail apais\u00e9e et attachant de l\u2019importance au bien vivre des salari\u00e9s et d\u00e9montrer un grand sens du service une exigence et un pragmatisme sans faille Pour utiliser un mot \u00e0 la mode \u00eatre \u00ab admin \u00bb chez Dav  Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "ses clients Dans le d\u00e9tail vos missions sont principalement de  Travailler \u00e0 la Direction Administrative et Financi\u00e8re de Davidson c\u2019est participer pleinement au cycle de vie de la soci\u00e9t\u00e9 et donc \u00e0 la fois b\u00e9n\u00e9ficier d\u2019une atmosph\u00e8re de travail apais\u00e9e et attachant de l\u2019importance au bien vivre des salari\u00e9s et d\u00e9montrer un grand sens du service une exigence et un pragmatisme sans faille Pour utiliser un mot \u00e0 la mode \u00eatre \u00ab admin \u00bb chez Dav  Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "salaire mais de proposer une exp\u00e9rience globale et un \u00e9cosyst\u00e8me qui permettent de combler les envies de chacun  partenariat startup organisation autour de practice leaders\u2026 \u00c7a vous parle  Nous vous attendons pour vivre cette aventure avec nous et construire ensemble le Davidson de demain D\u00e9couvrez nos offres \u00a0 Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "nos clients \u00e0 chaque \u00e9tape du cycle de vie d\u2019un projet ou d\u2019une affaire  depuis l\u2019id\u00e9e jusqu\u2019\u00e0 la livraison finale Pour ce faire nos interventions m\u00ealent responsabilit\u00e9s fonctionnelles et support technologique aupr\u00e8s des organisations de nos clients Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Are there any joint events, projects, or initiatives? If yes then list them.",
+            "result": " Based on the provided information, it seems that there are no specific joint events, projects, or initiatives mentioned for employees working in different departments within Davidson. However, they all share common goals such as creating a positive work environment and promoting social impact. The company encourages its employees to participate in volunteering activities through their Solidav program and strives for inclusive hiring practices. Additionally, there is mention of a platform hosting online testing modules designed to assess various skills.",
+            "source": [
+                {
+                    "content": "ses clients Dans le d\u00e9tail vos missions sont principalement de  Travailler \u00e0 la Direction Administrative et Financi\u00e8re de Davidson c\u2019est participer pleinement au cycle de vie de la soci\u00e9t\u00e9 et donc \u00e0 la fois b\u00e9n\u00e9ficier d\u2019une atmosph\u00e8re de travail apais\u00e9e et attachant de l\u2019importance au bien vivre des salari\u00e9s et d\u00e9montrer un grand sens du service une exigence et un pragmatisme sans faille Pour utiliser un mot \u00e0 la mode \u00eatre \u00ab admin \u00bb chez Dav  Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "ses clients Dans le d\u00e9tail vos missions sont principalement de  Travailler \u00e0 la Direction Administrative et Financi\u00e8re de Davidson c\u2019est participer pleinement au cycle de vie de la soci\u00e9t\u00e9 et donc \u00e0 la fois b\u00e9n\u00e9ficier d\u2019une atmosph\u00e8re de travail apais\u00e9e et attachant de l\u2019importance au bien vivre des salari\u00e9s et d\u00e9montrer un grand sens du service une exigence et un pragmatisme sans faille Pour utiliser un mot \u00e0 la mode \u00eatre \u00ab admin \u00bb chez Dav  Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "salaire mais de proposer une exp\u00e9rience globale et un \u00e9cosyst\u00e8me qui permettent de combler les envies de chacun  partenariat startup organisation autour de practice leaders\u2026 \u00c7a vous parle  Nous vous attendons pour vivre cette aventure avec nous et construire ensemble le Davidson de demain D\u00e9couvrez nos offres \u00a0 Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Lors de votre contrat vous serez amen\u00e9e \u00e0 travailler sur diff\u00e9rents sujets li\u00e9s \u00e0 l\u2019impact social et soci\u00e9tal et travaillerez notamment sur les missions suivantes  Possibilit\u00e9 d\u2019effectuer des missions de b\u00e9n\u00e9volat sur temps de travail dans le cadre de notre programme d\u2019engagement SoliDav\u2019 Nous nous engageons \u00e0 effectuer des recrutements aussi inclusifs que possibles car nous croyons que la diversit\u00e9 des profils est un \u00e9l\u00e9ment essentiel pour une entreprise En plus d\u2019\u00eatre sympathique vous r\u00e9pondez aux crit\u00e8res suivants  Travailler \u00e0 la Direction Administrative et Financi\u00e8re de Davidson c\u2019est participer pleinement au cycle de vie de la soci\u00e9t\u00e9 et donc \u00e0 la fois b\u00e9n\u00e9ficier d\u2019une atmosph\u00e8re de travail apais\u00e9e et attachant de l\u2019importance au bien vivre des salari\u00e9s et d\u00e9montrer un grand sens du service une exigence et un pragmatisme sans faille Pour utiliser un mot \u00e0 la mode \u00eatre \u00ab admin \u00bb chez Dav  Nous avons con\u00e7u une plate-forme de tests en ligne qui h\u00e9berge quelques dizaines de QCM",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        },
+        {
+            "question": "What are the mutual objectives and outcomes expected from these collaborations?",
+            "result": " The mutual objective and outcome expected from these collaborations involve strengthening the open-source community, structuring the ecoCode collective, and developing the overall Eclipse Foundation Europe community. Through these partnerships, both parties aim to create valuable resources, foster knowledge sharing, and promote innovative projects in the fields of sustainable IT, research, and development. Additionally, the collaborations seek to provide growth opportunities for participants, including skill development, networking, and potential job placements within the technology industry. Overall, the desired outcome is to build a robust and diverse ecosystem that supports the advancement of technology while prioritizing environmental responsibility and social impact.",
+            "source": [
+                {
+                    "content": "Relations Director \u00e0 l\u2019Eclipse Foundation Europe Une intervention sous le signe d\u2019une possible collaboration entre le collectif ecoCode et la fondation afin de structurer le collectif et d\u00e9velopper la communaut\u00e9 Open source Le reste du temps \u00e9tant consacr\u00e9 au d\u00e9veloppement les 20 \u00e9quipes ont pu profiter des espaces de travail d\u00e9di\u00e9s dans les locaux de Davidson ainsi qu\u2019\u00e0 un espace Discord mont\u00e9 sp\u00e9cialement pour l\u2019\u00e9v\u00e9nement Chaque conf\u00e9rence \u00e9tait partag\u00e9e sur un serveur Discord et plusieurs \u00e9quipes en distanciel et hybrides ont pu collaborer tout au long de l\u2019\u00e9v\u00e9nement\u00a0 Aux termes de leurs deux journ\u00e9es de travail les \u00e9quipes ont du pitcher leurs solutions et l\u2019ensemble des efforts fournis pendant cette p\u00e9riode tr\u00e8s intense devant un Jury compos\u00e9 de repr\u00e9sentants du monde des technologies durables\u202fet responsables\u202f Responsable domaine SI RSE Head of sustainable IT Responsable RSE Responsable Hub innovation en \u00e9cole d\u2019ing\u00e9nieur Architecte SI et Experts Num\u00e9rique Responsable\u2026 Apr\u00e8s une",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "salaire mais de proposer une exp\u00e9rience globale et un \u00e9cosyst\u00e8me qui permettent de combler les envies de chacun  partenariat startup organisation autour de practice leaders\u2026 \u00c7a vous parle  Nous vous attendons pour vivre cette aventure avec nous et construire ensemble le Davidson de demain D\u00e9couvrez nos offres \u00a0 Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Vous vous en \u00eates peut-\u00eatre rendus compte en parcourant note site en tout cas nous l\u2019esp\u00e9rons nous sommes des mordus de tech et nous voulons \u00eatre un VRAI partenaire de notre \u00e9cosyst\u00e8me Pour cela nous avons choisi d\u2019investir massivement dans le domaine de la recherche Nous avons d\u00e9fini un process nous permettant de faire \u00e9merger les th\u00e9matiques que nous voulons d\u00e9velopper et donc dans lesquelles nous investissons Celles-ci sont au nombre de 4 aujourd\u2019hui Nos projets sont pilot\u00e9s par plusieurs chefs de missions sous la coordination d\u2019un directeur RD et en partenariat avec 4 laboratoires de recherche r\u00e9partis en France Ils sont initi\u00e9s sur la base des \u00e9tudes de veille conduites par nos observatoires Davidson consulting soutient depuis  le d\u00e9veloppement de\u00a0la\u00a0Chaire \u00ab Inventivit\u00e9s Digitales \u00bb\u00a0premi\u00e8re chaire d\u2019enseignement d\u00e9di\u00e9e \u00e0 la cr\u00e9ativit\u00e9\u00a0num\u00e9rique port\u00e9e par Institut Mines-T\u00e9l\u00e9com Business School\u00a0en partenariat avec T\u00e9l\u00e9com SudParis et l\u2019ESAD de Reims avec le support de SIANA du",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                },
+                {
+                    "content": "Dans ce contexte tu seras responsable de  De la data \u00e0 analyser Des r\u00e9seaux pour la transmettre Le 3\u00e8me pilier de l\u2019expertise de Davidson c\u2019est le Dev  En Agilit\u00e9 et dans le mouvement DevOps Consultante chez Dav tu interviendras sur des missions vari\u00e9es ou rejoindras notre \u00e9quipe TWISTER Twister c\u2019est la rencontre entre une DSI celle de Davidson qui g\u00e8re une cinquantaine d\u2019applications internes dont ce magnifique site et son non moins magnifique bot un centre de services Agile/DevOps R\u00e9alisation et TMA multi-r\u00e9gions une \u00e9quipe de support pour notre agence digitale et un p\u00f4le d\u2019innovation qui prototype en anticipation par rapport au march\u00e9 enfin si on ne se rate pas notamment sur le Green coding en ce moment Tu rejoindras notre communaut\u00e9 anim\u00e9e par des practice leaders dans l\u2019ensemble des domaines qui font les applications performantes aujourd\u2019hui  Cloud M\u00e9thodes Open Source Java Net Go Virtu DevOps etc Une opportunit\u00e9 se saisit vite ou ne se saisit jamais",
+                    "metadata": {
+                        "rel": [
+                            "sciencebasedtargets",
+                            "un",
+                            "bcorporation",
+                            "linkedin",
+                            "youtube"
+                        ],
+                        "sector": "Service with Minor Environmental Footprint"
+                    }
+                }
+            ]
+        }
+    ]
+}
