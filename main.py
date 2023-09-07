@@ -26,6 +26,7 @@ def get_data(base_path):
         #data[name] = q_data
 
     names = list(data.keys())
+    names.sort()
 
     return data, names, categories
 
